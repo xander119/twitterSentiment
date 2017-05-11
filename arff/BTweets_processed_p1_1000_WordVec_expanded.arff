@@ -1,0 +1,1006 @@
+@relation Tweets
+
+@attribute text string
+@attribute labelled_sentiment {positive,neutral,negative}
+
+@data
+"new CEO seeks the right balance to please passengers and Wall   Greenfield Daily Reporter ",neutral
+"is REALLY getting on my nerves  😡😡 not happy  ",negative
+"yes We waited in line for almost an hour to do so Some passengers just left not wanting to wait past am ",negative
+"the we got into the gate at Bush Intercontinental Airport on time and have given our seats and closed the flight If you know people is arriving have to wait ",negative
+"its cool that my bags take a bit longer dont give me baggage blue ballsturn the carousel on tell me its coming then not ",negative
+"and dont hope for me having a nicer flight some other time try to do things right You sold me those tickets with that connetion ",negative
+"I like delays less than you because Im the one on the plane Connect me with a voucher ",negative
+"link to current status of flightsairports Fly BWIEWRMCO this morning yet cant yet tell what any problems are except see snow ",negative
+"I tried  Direct message it would not go thru not sure why ",negative
+"you guys there Are we on hour  of our phone hold at am bc of volume or short staffing ",negative
+"Wanted to get my bag benefit but instead get  pricing on all three tickets When adding a card MP Visa is only option ",negative
+"please see a flight attendant for what Why isnt there enough room for over head bags I carry on to save time ",negative
+"still waiting for a reply ",negative
+"even though technically after I land I will be silver ",neutral
+"hows us  looking today ",neutral
+"nice work on the update ",positive
+"i have items of sentimental value that Im heartbroken are missing ",negative
+"We have been stuck in Luis Munoz Marin International Airport for several hours and no one is answering here Really tough to LUV SW No response is bad ",negative
+"CEO weighs profits flyers  registration ",neutral
+"How r u supposed to change flights when u cant get thru to reservations OneHourOnHold ",negative
+"Thanks Her flight leaves at  but shes arriving to the airport early Wedding is in VT in Sept Grateful you fly to BTV  ",positive
+"is officially the worst most delayed and least helpful airline I have ever had the misfortune of flying on ",negative
+"wont answer their phones HorribleService NeverAgain frustrated  AnswerThePhone ",negative
+"reservations had me on hold for  hours only to hang upsmh 😕 ",negative
+"No worries Delay was minor and dealt with nicely It was captain of flight  by the way ",positive
+"clicked on the link and got this confused  ",neutral
+"Is it a temporary site glitch or are you no longer offering flights from Gerald R Ford International Airport to Spokane International Airport after Feb Cant find any online  ",neutral
+"flight was Cancelled Flightled and it wont let me rebook online Wait time on phone is too long Please help ",negative
+"Guys weve got to do something about the inability to check in online for international flight that has  ",neutral
+"really caring ",neutral
+"allows other passengers  harass u after their gate agents mistakeFURIOUS they are doing NOTHING about it  my yo was scared ",negative
+"this is really unhelpful Why cant I rebook online ",negative
+"sitting on the plane in John F Kennedy International Airport waiting to take off doors are open catering is stocking up we are delayed but they couldnt be nicer ",negative
+"A flight delay due to pilots oversleeping is apparently an uncontrollable irregularity that is not eligible for delay compensation ",negative
+"we have no choice but to pay another  to go to the airport in the hopes that we will be treated better by a rep ",negative
+"New Apple crâpe amazing Live from UA Really nice crew too AmericanAir has biscuits UA needs them  ",positive
+"on hold for  hours and then you hung up  Cancelled Flightled flights Running out of daycare for our kids who are trapped at home ",negative
+"call my work and tell them its your fault Im Late Flight ",negative
+"why have you guys jacked up the prices AFTER you said prices were going to be lowered Shaking my head ",negative
+"I have been on hold with your Gold reservations line for OVER  HOURS now Flight Cancelled Flightled Trying to rebook ",negative
+"how much does it cost to check in an additional bag Traveling from newark to glasgow Thank you  ",neutral
+"thanks do yall expect to be operational tomorrow out of Nashville ",positive
+"we are on the pm flight Fort Lauderdale Hollywood International Airport to Philadelphia International Airport and then connection to MAN However with the delays we might miss it Can we go earlier ",negative
+"last night we waited forever at the gate because someone from corporate dispatch FORGOT to call the crew unfriendly skies  ",negative
+"Broken entertainment system on my  hour NYC flight terrible cabin crew service and online complaint form wont work hopeless  ",negative
+"husband on hold  hrs got disconnectedNew wait  min Cant confirm res due to the fact he booked on line Nuts ",negative
+" Ridiculous to fly outdated s anywhere much less btwn Bush Intercontinental Airport and SFO No power ports no Wifi no personal entertainment TORTURE ",negative
+"been on hold for  minutes about my Cancelled Flightled flight Still not talked to anyone and flight is soon What gives ",negative
+"Hoping you answer the phone today ",negative
+"the last For times Ive arrived our gate has been blocked by a slow to depart plane leading to  min delays ",negative
+"what if business as usual meant dropping the bully mentality and fostering inspiration for a greater business EmployeeRelations ",negative
+" kind of early but any idea when dates through the first week of sept will come available ",neutral
+"I hear that the new thing in your planes are the FlyFi How I can check if the flight that Im going to take have it ",neutral
+"your service has been awful in Boston and I had to pay  extra dollars than I was supposed too I am very dissatisfied mad  ",negative
+"Im showing flight  delayed again Would my boarding pass still be good or was my seat given away ",negative
+"cant update my flight online bc its been Cancelled Flighted twice already Going on hour  on hold ",negative
+"Guys for real Ive been on hold for  hours including one hangup Please have someone reach out Significant Other I can get my  back ",negative
+"great job today In ruining  peoples vacation Thanks to your incompetent pilot and staff we have all now missed our flights ",negative
+"tried to rebook online but it says that I have to pay  for difference in price Please help ",negative
+"please provide me your direct email for me to explain ",negative
+"Cancelled Flightled my flight out of Nashville International Airport today Been on hold for an hour 😠 frustrated  ",negative
+"Beautiful thanks a ton ",positive
+"I need updates on my flights    I have been on hold for over  hours ",negative
+"HiMy flight BNA to LGA was Cancelled Flighted this morning Looks like other flights out of Nashville International Airport are taking off Any chance ",negative
+"Can you link the article where it says the routes and what times the routes are likely to be Like TULDAL PM   None ",neutral
+"mobile boarding passes now available in iOS Passbook ",neutral
+"Almost For hours and coin now Understand higher call volume but this is unacceptable ",negative
+" Its been Cancelled Flighted Your SM response is slow ",negative
+"I’ve had my flight Cancelled Flightled twice now and after  minutes of automated questions the phone just goes to a busy signal Help ",negative
+"tried online and told I must call bc of modifications to my reservation Been on hold for almost  hours ",negative
+"  outstanding customer service Thank you ",positive
+"finally ",positive
+"trying to get through to cust relations Is there another  to use ",neutral
+"Where should I fly by May rd Plz advise ",neutral
+"has the WORST customer service of any airline Ive ever flown ",negative
+"You know what the United Club needs Power MOAR power Insufficient outlets for the RoadWarrior ORD ",negative
+"THRILLED to have my carryon checked against my will by two nasty gate agents only to see an entire empty bin when I boarded last ",negative
+"almost  hours on hold  hours of my life I cant get back Thanks ",negative
+"discount for three delays ",negative
+"to offer service from Daytona Beach to New York  Albany Business Review ",positive
+"cant even get on hold to wait to speak to someoneawesome ",negative
+"didnt get her name She was not in our group She was sitting behind us Think it was window seat   We only overheard ",negative
+"Thank you ",positive
+"too bad Im getting this memo Your reservation contains modifications that prevent you from changing it online FUSTURATED ",negative
+"Is todays JetBlue Flight  NYCBOS delayed My app says on time and the website says its not ",negative
+"thanks for the reply hoping everything is cleared up in Charlotte by Monday ",positive
+"it takes a month ",negative
+"Yes I a report in Atlanta My bags are in Charlotte NC  hours Late Flightr and still cant find my luggage  ",negative
+"it was supposed to be a carry on and in Pittsburgh coming to Boston it was a carry on ",negative
+"You need to contact me ASAP Furious ",neutral
+"Book out of town with fares from way restr ",neutral
+"nothing apparently Ive flown With you For times in last  weeks and  of those experiences incl today were clusterfucks ",negative
+"whats the link for FlyFi ",neutral
+"How soon is possible I boarded the plane the st time at  am and it is now after  am and Im still where I started ",negative
+"your chairmans phone is down what other number can i use ",negative
+"you make Spirit look like the gem of air travel You havent handle this winter storm very well ",negative
+"Flying Los Angeles International Airport to San Francisco International Airport and after looking at the awesome movie lineup I actually wish I was on a long haul ",positive
+"Bad coffee but the juice is ok GetPhilz United Terminal San Francisco International Airport Airport ",negative
+"why am i mot getting my refund ",negative
+"do you think the flights out of Nashville will be Cancelled Flighted tomorrow ",neutral
+"do you not try to get customers to their destinations No help to get on another airline if you had no flights for  days ",negative
+"Im an Alist Preferred customer and very loyal SWA However your inflight wifi is no better today than it was For years ago ",negative
+"I have a internal bleed in my foot and I am flying next Tuesday what should I Do  these Leeds come randomly I ",neutral
+"Cant view seat selectionchange seat for flight tomorrow Can you look into this ",neutral
+"please give Tara G a pat on the back and praise She was very very helpful She is at Philadelphia International Airport member lounge ",positive
+"thanks I hope I get to my destination ",positive
+"well its am and just got an email that my am flight is delayedthats not right ",negative
+"was wondering if you guys recieved my Direct message and were able to potentially respond asap ",neutral
+"did not let me get on the IAHHNL direct Now weather delay for my San Francisco International Airport leg Stop being reactive and be proactive ",negative
+"kudos to the RSW CS crew for rerouting PAX to alleviate Over sale due to down graded EQP  now  ",negative
+"trying to fly out of Nashville tomorrow How is it looking ",neutral
+"no I am fine to fly Haha they come at random with the hemophilia but what if i need extra assistance ",neutral
+"Overheard hell no Im not waiting again to get hung up on after speaking to  rude service  people ",negative
+"new CEO seeks the right balance to please passengers and Wall   Daily Journal ",neutral
+"thank you Miss you all Significant Other Significant Other much Is this the link to the blog Or has that changed ",positive
+"I expect something more than telling me to see an agent to rebook my flight ",negative
+"you have the ability to switch my flight to but you cannot tell me where my bags are ",negative
+"I did and its been a disaster You had me sitting on the runway only to bring the plane back to the gate Shaking my head ",negative
+"no we havent because weve been in the same line at the service desk for an hr and  now in the same spot ",negative
+"on your website and on your boards at Logan it said it was on time Significant Other we went through security and got to the gate  ",neutral
+"I got up at  am for a  am flight from bos to Charlotte which I found was Cancelled Flightled once I got to the gate  ",negative
+"Filled in the form you sent the link to on  and then either  or  ",neutral
+"Ive been on hold with customer service for over an hour Can you help ",negative
+"Ive been on hold for an hour now  as I type this Ridiculous All I need is the link to the chart that has routes time ",negative
+"sent ",neutral
+"Flight Cancelled Flightled reFlight Booking Problems online has not worked on my second round of hold  hrs now Any other options ",negative
+"my request has nothing to do with rescheduling But customer service has such a bad attitude today bad service  ",negative
+"busy due to storm but customer service should always be on point More Significant Other now than ever ge tit together  ",negative
+"no warm weather hubs means no Mexico for us And I cant go anywhere else since you lost my bags I hope you attempt to rectify ",negative
+"No kidding Oy ",negative
+"thanks ",positive
+"thank you for blowing my vacation Couldnt get me anywhere today to make my reservation and also lost  bags of mine ",negative
+"been trying to talk with a dividend miles rep for  days now I have been holding for over  hours each day What are my options ",negative
+"and it still says its on time on your website By the way ",negative
+"your customer service is horrible ",negative
+"Gold Star for united change my flight miss all connections but cant accommodate me until a MUCH Late Flightr arrival timeNot HAPPY ",negative
+"firstclass cockup  ",negative
+"all day travel swag  ijustwanttosleep  ",neutral
+"Thank you for the new Club at OHare Very comfortable You made the difficult weather days proficient and enjoyable ",positive
+"have you considered adding the well call you back when we have someone free feature to your support line ",negative
+"This is dating back to Nov I have been sent back and forth between you and Its a disgrace ",negative
+"will do Hoping for a voucher for a future flight Optimistic ",positive
+"I didnt even leave the airport and you sent  of my bags to Philadelphia ",negative
+"Thanks for the Information but have been trying for over hrs and no luck Flight dep Today Need  change  tomorrow or Thursday ",negative
+"tried twice today on hold for  min each time i have things to do Significant Other cant live on hold dealing With your customer serv failures ",negative
+"sat at airport for  hrs still sitting at gate Sigh ",negative
+"actually we did not consider she might have made a mistake She did not complain beyond that she indicated it on her reservation ",neutral
+"injured at check in yesterday U told me to go to dr on hold with SWA for over hour trying to talk with someone suggestions ",negative
+"Trying to get through by phone to confirm that funds from a Cancelled Flightled reservation can still be used in the future Can u help ",negative
+"omg Wish I had a flight today Haha theres always next time Have fun at LFT ",positive
+"to arrive the plane Im sitting on needs to take offwish someone would tell us what the holdup is ",negative
+" thats the gist of what the flight attendant told her ",negative
+"By the way is it true you have to remind flight staff after checking in even after indicating meal prefer on your reservation  ",negative
+"what took me aback was the response by the flight attendant who put the responsibility squarely back on passengers shoulders  ",negative
+"No but u cld explain how such a disorganized and inefficient company With surly and obviously unhappy employees stays in business ",negative
+"Got it thanks Any insight into what will happen tomorrow ",neutral
+"any chance of adding LAXJFK direct any time in the future ",neutral
+"thank you I was given this same reply  years ago Can you direct me to an area I can learn more about the improvements ",negative
+"just disconnected my call after  hours without even speaking to me octavian nightmare  ",negative
+"she was a phone agent pls do Peggy was pleasant informative and delivered ⭐️⭐️⭐️⭐️⭐️ ",positive
+"Hopefully next time Can I send you my future itineraries Significant Other the next one can be planned when Im there 😂😂 ",neutral
+"flight  fro Norfolk International Airport to PHL ",neutral
+"",negative
+"The phone line disconnects How can I be in the queue to be answered when the phone line simply disconnects when I call ",negative
+"want to bump up my seet to first class for two Cancelled Flightlations in hrs what a joke ",negative
+"I am thankful to the United ground staff who put me in the last seat on the last flight out Home Late Flight is still home ",positive
+"I appreciate the follow up ",positive
+"Ive been on hold for an hour  a half trying to change my flight to BNA Not very happy with customer service right now ",negative
+"Got flight reschedule to flight form Pittsburgh International Airport to Fort Lauderdale Hollywood International Airport and our flight had mechanical problems Significant Other we were delayed an hour Missed my connect ",negative
+"well lucky I only fly JBI guess I would be even more squished on any other airline 😞 ",positive
+"still crickets from customer service ",negative
+"we rebooked But and I had to split up and take different flights because a pilot ran out of hours Frustrating ",negative
+"no worries about the tweets We all should do what we can to make sure we as in your tag line Fly the Friendly Skies ",positive
+"Great job Looking forward to my next trip being able to use this new feature ",positive
+" any update on flights in to Nashville International Airport today ",neutral
+"damn weather messing up everything serenity now  ",neutral
+"could you tell me if any upgrades are available on a flight out of LambertSt Louis International Airport tomorrow morning ",neutral
+"disappointed with customer service right now my flight was only one Cancelled Flightled at my airport  now Im losing  days from trip ",negative
+"been on hold for over an hournot cool you guys ",negative
+"should i continue ",negative
+"Ok great thanks I had a great flight FYI Im excited to fly again I just was frustrated I was not able to check in ",neutral
+"I do not want to deal with your customer service agents with no practical knowledgeProvide me with a direct contact ",negative
+"hundreds of people in line and less than half the desks being manned at CLT Help ",negative
+"Why is there no contact email for customer complaints ",negative
+"Now I am probably going to miss my connection in Charlotte Significant Other I will have to drive home for the funeral ",negative
+"Flight  from John F Kennedy International Airport to Charlotte then  from Charlotte to Birmingham  previous flights to Huntsville International Airport were Cancelled Flightled ",negative
+"pleasantly surprised to find ANA has made major upgrades on their transpacific route in flights planes and service ",positive
+"Step  Cancelled Flight flight Step  Dont notify customer Step  Charge them for food while they try to survive their wait Brilliant ",negative
+"i need my confirmation number Can you give it to me ",neutral
+" besides no small degree of selfinterest We take that route several times a year  would hate to be in that situation ",negative
+"Great job with the Passbook integration It’ll really help streamline the commute to San Fran 😊☕📲✈ ",positive
+"I need to reschedule a flight and Ive been on hold for almost an hour This is ridiculous Is there a best number to call ",negative
+" condescension must be a quality your Commanding Officer rewards Your tone reeks of it ",negative
+"unfortunately no but hoping I can catch one sometime in the near future ",neutral
+"why is my flight delayed  hours This is insane Every other flight has made it to NYC ",negative
+"Ah Wish I was there Good luck ",neutral
+"Just contaced EYEWITNESS NEWS about the ripoff the Cancelled Flighted now they want me to pay ",negative
+"How can I change without penalty and not have to call customer service ",neutral
+"when I call it says yall are too busy and to call back Late Flightr this is terrible customer service what will you do about it ",negative
+"They charged me for a flight they Cancelled Flightled unbelievable and unheard of ",negative
+"I was completely ripped of by US Airways today never fly this airline I am contacting my local news ",negative
+"I cant believe that you would refer me to a number no one seems to be getting through Really I need help ASAP ",negative
+"still waiting to see 😞 ",neutral
+"feck guys Stop Cancelled Flightling flights from Newark Liberty International Airport to Richmond International Airport the weather is fine I both locations ",negative
+" UA has been rolling out improvements too we think Hoping theyll catch up soon Meantime ANA is our preference ",neutral
+"FRZZ ",neutral
+"youve got a mess here at Detroit Metro Airport but your staff is doing great ",positive
+"flying to La Guardia Airport in the dead of winter jvstatus  Newark Liberty International Airport  John F Kennedy International Airport is always the intelligent option ",negative
+"I need someone from management to contact me I was flying to a funeral wont make it now to add to my pain they want me  pay ",negative
+"dropped off a luggage at Washington Dulles International Airport over  months ago for repair from damages havent heard anything about it since when do I get it back ",negative
+"thats what I thought Thanks for the clarification ",neutral
+"no flights out of nashville  today Are you kidding me Why are other airlines flying and youre not Significant Other frustrated ",negative
+"I am but it says yall are sold out Me  My coworkers would need to get out first available ",neutral
+"Im trying to change a family vacation due to Measles outbreak and havent been able to get anyone on the phone Any help ",negative
+"CEO Battles to Appease Passengers and Wall Street  ",neutral
+" there are seats together they just have fees Seems if Im taking a am flight the least you can do is wave the  ",negative
+"Im researching a flight  noticed a small issue wclass of service between your site  other sites Could Reservations help me ",neutral
+"Thx Stand by I know its frustrating and I do appreciate your patience while we try to get you on your way JH ",neutral
+"roundtrip tickets to NJ are DRAMATICALLY cheaper through Virgin pretty pricey via United Can you match them ",neutral
+"I also find it ridiculous that Ive been tweeting to you since  AM EST and have still received no response  hours ",negative
+"Thanks Yes I got through Biggest frustration is that Im no longer able to check in online for my flight after For Cancelled Flights ",negative
+"why are flights still getting out of Logan now You couldnt manage to get one out at  AM when it wasnt snowing ",negative
+"mins wait on the phone with no option for a callback Finally had to hang up because my phone was dying customer service  ",negative
+"landing early morning after snowfall ",neutral
+"and thanks ",positive
+"sure Fhkte Am scheduled to leave this weekend but need to push to October ",neutral
+"its all good flight eventually took off and landed safely oh and I got the free cup o wine thx ",positive
+"I noticed the rates increased a few days ago or the promotion ended Any idea when another promotion will be coming Thanks ",neutral
+"and they are telling me I got to get another hotel and foodso spend more money because you guys made me miss my connection ",negative
+"already spent  to stay at hotel last night due to you guys rescheduling my flight Since my Cancelled Flightation Ive spent almost  ",negative
+"Seems very likely ",positive
+"they are rude and unhelpful They suggested I catch a flight tomorrow I was supposed to be home today at  am and work is waiting ",negative
+"crew  keeping safety top of mind in CLT ",positive
+"I was denied use of a rear facing car seat on UA an ERJ Can you confirm the actual policy ",negative
+"you better hold my flight to Tucson   just landed in Houston after an hour delay for some minor computer problem ",negative
+"Thank you Twitter says I cant Direct message someone unless they follow me Can follows my twitter ",negative
+"the  is sold out too ",neutral
+"myself and  others ",neutral
+"can you follow me Flight Cancelled Flightled cant rebook online been on hold for  hours Would love to Direct message flight info Thank you ",negative
+"I didFlyFi worked well and was free aboard this flight ",positive
+"I booked a flight yesterday but didnt receive an email confirmation and I my dividends number isnt registering Please help ",negative
+"thank you And next flight to Durango then driving to Farmington New Mexico for work But hitting the slopes in Durango ",neutral
+"Finally Integration With passbook is a great Valentine gift  better then chocoLate Flight You do heart me ",positive
+"Finally ",neutral
+"you guys are awesome dont change athing  luv  ",positive
+"Karen with customer service was very helpful Thank you for providing one bright spot in a frustrating situation ",positive
+"Twitter says I cant Direct message someone unless they follow me Can follows my twitter thanks you ",negative
+"tough choices but I did all simultaneously As a business traveler best experience in a long time wish my flight was longer  what  ",positive
+"t hanks Great  service in T already lovejet Blue ",positive
+"I left my sons Duke hat on flight  last night It says Mason on the back Any way of locating it Thanks in advance ",neutral
+"will my known traveler no transfer over from  when I check in at t as an AA elite I can get choice seats ",neutral
+"is having a sale Im delighted ",positive
+"about time Thank you ",positive
+"morning If I have a question regarding elevate points  flights can I Direct message you ",neutral
+"Confirmation number NJVBP  All I need is email confirmation of flight from NYC  San Francisco International Airport Feb For ",neutral
+"Is Changing Its MileagePlus Program Winners and Losers airline  travel  loyalty  rewards  ",neutral
+"Brandi Zabsonre in Denver deserves a raise for bringing delight into a terrible travel situation big ups ",positive
+"no exceptions for national awards ",neutral
+"any idea on flights to Nashville tomorrow being clear or Cancelled Flightled ",neutral
+"Been dealing with a Cancelled Flightled flight since last night  was booked to a  flightwouldve at least liked to see Ella perform laughing out loud ",negative
+"any tips on getting a hotel that your airline wont get for any of us even though we were told that wed make our flight ",negative
+"Are there any sign up bonuses to enroll in Elevate ",neutral
+"just got on the pm in Newark home to LA Your folks at Newark Liberty International Airport are incredible lets go home  ",positive
+"I somehow think Im going to be stuck paying for a hotel room in Denver without winter clothes on my dime I guess well see ",negative
+"I normally ask people to put on headphonesbut not toddlers Maybe planes should have a kid section near the back  ",neutral
+"of course I need help Ive been DMing you ladies and gents all day Your only solution is hope for the best and LAX ",negative
+"Hi Thanks Do you have an exact link to that specific page on your site you can share  or is it under Flight Status Thx ",neutral
+"huge fan of great brands and people doing great thingsyou guys rock happy to share the love ",positive
+"missing my reservations due to a Cancelled Flightled flight Make it right by giving me first class tomorrow Make your customers happy ",negative
+"its not a consolation because my bags are somewhere else which is a real impediment to me going on a different vacation ",negative
+"my group got their Cancelled Flightlation fees waived but I cant because my ticket is booked for  Your reps were no help either 😡 ",negative
+"LUV Ya Too I will sing a song for yall when I finally get on that plane back to Nashville LOVESOUTHWESTAIR ",positive
+"my mothers flight was delayed from phlord Were on our way to NRT and the gate refused to upgrade A platinum Blegh ",negative
+"is Late Flight again Everyone braved the weather and  passengers are waiting for a flight crew Really ",negative
+"Miserable trip  lost bag Sat found Mon lost again shipping nd day ground Tues might have it for return flight home ",negative
+"spending the afternoon Mia Not your fault No lounge Very inconvenient ",negative
+"costumer service sucks Waiting for a week for a response ",negative
+"Is there a way to get a copy of Febs edition of Hemisphere ",neutral
+"Trying to add my dog on the flight but cant get through ",negative
+"I need to request a refund on my flight that was Cancelled Flightled this morning due to the weather ",negative
+"Thanks a ton ",positive
+"issues are not with people who r nice or storm emails with wrong phone numbers auto rebooked flights to non connecting cities ",negative
+"my flight  scheduled for pm departure still says on time but no plane at gate Any update on how long of a delay ",negative
+"thank you someone finally answered and was able to change my flight that was Cancelled Flighted bc of ice Thank you for response ",positive
+"cust serv reps who are unable to change reservations in your system Check in unaware of Cancelled Flights that I got word on night before ",negative
+"is there any way that you could hold flight  in CharlotteDouglas International Airport my husband is stuck in the security check line flight scheduled for PM ",neutral
+"when is my plane coming Been delayed for almost  hours No plane ",negative
+"Not fast enough No excuse for service between big hubs to have such outdated craft Southwest has wifi This is awful ",negative
+"thankful for great service in Newark Seats fixed and I was seated with my daughter Fab landing in Fort Myers ",positive
+"always when I fly SW loyalRRmember ",positive
+"CEO battles to please Wall St and flyers  from ",neutral
+"I believe you But in all seriousness whats an acceptable time I should have this expense on my name that wasnt my fault ",negative
+"Is there a direct number to call to request a refund Its telling me its not valid as I changed the ticket No number on site ",neutral
+"or you could send me a DM ",neutral
+"I am following you now I dont think I can Direct message until you follow me ",neutral
+"Flight Cancelled Flightled out of BNA Do I have to reschedule now or can travel funds be put back into my account for future use ",negative
+"are you kidding me I needed help yesterday Im now landed and waiting for my connection Never will I fly southwest again ",negative
+"can i have my bags back ding ",negative
+"yeah bruh its bool yall niggaz just need to hire some more workers or something cause next time imma be forced ta disrespect ",negative
+"as much i have paid in fees Plus hotel and food because of your changes i could had flown with a more reliable airline no jet blue  ",negative
+"Travelling from pwm to atl on Sunday That flight got Cancelled Flightled and my new flight is Cancelled Flightled and got disconnected when reFlight Booking Problems ",negative
+"mood lighting on point🙌 Reclining my seat kickin up my feet💤 ",negative
+"Nearly  hours Late Flightr and still no idea where it is I will never fly United again if I can help it ",negative
+" had wifi broken on plane Had same outage on  on Friday How can Southwest get it right on every plane but United cant ",negative
+"WiFi onboard  far superior in pricing and performance userperceived bandwidth and Late Flightncy to recent experiences ",positive
+"Second day  attempt trying to leave Washington Dulles International Airport  Im on another plane delayed for mechanical issues Over an hour delayed ",negative
+"followed ",neutral
+"worst customer service Terrible attitudes I dont care how big a storm Your employees need an attitude adjustment ",negative
+"how do I get a copy of my last flight showing original time and delay I need it for work Thanks ",neutral
+"its be nice to take a flight and have some level of consistency  service from the flight attendants Quality control ",negative
+"just played the Most bizarre safety video Ive ever seen ",neutral
+"I did eventually get through but that flight Cancelled Flightled Decided to drive but gave up holding to process refund ",negative
+"Already rebooked for tomorrow Fingers crossed ",neutral
+"okayyyy But I had huge irons on way out Promise no shenanigans ",neutral
+"please send me a number to call to talk to a person and not be put on hold ",negative
+"flt  from Buf to MCO ConfFGKXV Please also look into reimburse for car COUNT that I had to Cancelled Flight ",negative
+"Almost  hours on hold now I just need to Cancelled Flight a flight and get a refund Other airlines are operating ",negative
+"You need to be more accommodating to your loyal customers Not happy now ",negative
+"yes Thank you Oct oct  ",positive
+"what a joke of a company today reminded me why I never book with you ",negative
+"I had exceptional service on flight  from Indianapolis International Airport to PHX ",positive
+"giving up on your direct flight from Bush Intercontinental Airport to Honolulu rd attempt in  years  rd delay  meal voucher Wow Customer service ",negative
+"the person I talked to couldnt do anything not normally available online other than the no charge part ",negative
+"can someone help me set up a callback today ",negative
+"how about when there are Cancelled Flightlations you just have a link to rebook like you did for initial storm issues ",negative
+"there really should not be guidance to call via phone if you are that back logged I could have done it online in  minutes ",negative
+"no had to rebook my flight myself and am about to board in bham ",negative
+"Only at Newark can you land  minutes early but lose all that time waiting on tarmac for a gate ",negative
+"no worries We got thru eventually I was just curious Best of luck to you dealing with the weather ",positive
+"not terribly inspired to call customer service in the future now ",negative
+"also they said they couldnt even book the flight They were having to put me on hold  have someone else do it ",negative
+"glitches on website re Flight Booking Problems travel  checking in Nothing between ur site  the airport was communicated it was a nightmare ",negative
+"No I missed the funeral Significant Other I had to take a train back to Newark ",negative
+"what is the baggage allowance on flights from Glasgow to the US Thanks ",neutral
+"really wish youd fly out of Fargo those fares are amazings ",positive
+"stay warm  I will be passing through Chicago next week ",positive
+"the refund request functionality on is brokeni get a time out error ",negative
+"in my  years of flying I have never been Significant Other pissed off To many incidents for just one flight ",negative
+"Heard apology  times in the  mins I was on hold Now flying from another airport at a different time but delayed AGAIN ",negative
+"Happily But you need to follow me in order for me to Direct message you ",neutral
+"I willmake sure to tell everyone I know about this all around horrible experience I will also post it on my business page ",negative
+"and currently as im bringing my  year old to the bathroom Im being rushed by the flight attendant ",negative
+"new CEO seeks the right balance to please passengers and Wall   Weyburn Review ",neutral
+"please hogs my next flight for me Im waiting on a bus to get me off one plane Significant Other I can run to the other It leaves in two min ",negative
+"Fabulous  thank you Significant Other much Looking forward to taking to the skies with you  ",positive
+"we r rebooked got conflicting Information abt baggage Y no extra plane batteries on hand Y no comped admirals club for  hr wait ",negative
+"Dont tell me that Tell me what I can actually DO to reach someone I dont mind being put on hold but it wont even do THAT ",negative
+"Can you give me Silver Status for  months ",neutral
+"I absolutely will Where can I send it ",neutral
+"no worries Youre doing the best u can Already Cancelled Flighted my biz trip Still LUV you RR  ",positive
+"if my flight says delayed with estimated departure listed can I arrive at airport Late Flightr ",neutral
+"please hold  I can see it Just cant get off my first plane quick enough ",neutral
+"was just at T a little over a month ago you guys are great thanks for everything ",positive
+"figured but delay is listed at almost  hrs Thanks for being great Cheers ",negative
+"then why did my whole team be able to put there carry ons under the plane ",negative
+"customer service at its finest ",positive
+"No speciifc email  character limit for complaints Is AAUS customer complaints adopting the twitter model ",negative
+"doing a good thing holding flight for a few for  peeps on Late Flight connecting flight Well still make destination on time ",positive
+"Q Just purchased ticket to Hawaii for trip in Late FlightMarch Does this mean we will acquire miles based on price or distance flown ",neutral
+"Hey SWAir a very tortured boarding on flight  due to one gate agent having to board assisted folks one at a time ",negative
+"I understand a delay but to be stuck on the plane longer than the flight is unacceptable ",negative
+"and For days of Cancelled Flightations I have driven to  airports in  different states spent more on gas than my flight ",negative
+"yall tried it with this little bitty plane flying out of boston I hate little planes ",negative
+"is there a problem with the website I tried making changes With the app and the site but got unspecified errors ",negative
+"I love Southwest and Payton Taylor ",positive
+"RaleighDurham International Airport flights expected to be ok this afternoon and tonight ",neutral
+"super disappointed today First time weve had to stress and now book a flight on another airline while at the airport ",negative
+"they put me on the next flight available tomorrow morning  Any idea if Nashville International Airport will be open in the morning for my flight ",negative
+"Good I want extra peanuts on my flight then lol JVMChat ",neutral
+"YES Great realtime example Thanks for being awesome JetBlue JVMChat ",positive
+"alittle more money to book our flights were  way there  ",neutral
+"HAHA you didn’t disappoint Well done JVMChat ",positive
+"thank you I tried that and they said they didnt have it Anywhere else to try ",positive
+"best u could doI might get my refund within  billing cycles Months of u guys asking for another chance Im done ",negative
+"thanks Yall have some of the best customer service left in the industry ",positive
+"u lost my bag and would not refund my bag fee Does that make sense to you And yes I already called cust svc They said no ",negative
+"I like the inflight snacks Im flying with you guys on  JVMChat ",positive
+"awww  R to the T realtime appreciation from JetBlue rocking the tweets  JVMChat ",positive
+"how is your gate agent gonna tell me my flight is on time when its  minutes past departure time and the previous flights plane ",negative
+"this is the aforementioned pilot sure you want to merge with these patron hitting hoodlums ",negative
+"my flight was but  I left my phone on the plane or the shuttle  ",neutral
+"on a good note the  employees I encountered Newark were fabulous I was very Late Flight for my connecting flight and they got me on ",positive
+"the woman working the counter in philly at  this am needs to be fired Due to bad weather I along with other passengers ",negative
+"was earlier for reFlight Booking Problems flight Im on now Didnt get a screencap just said unspecified error and to call SWA ",negative
+"Buying Early Bird was pointless You moved me to a diff flight bc first one was delayed Significant Other I lost my boarding position ",negative
+"For me it’s not until  ",neutral
+"Well I try See you soon ",neutral
+"Haha  that will indeed be a great day ",positive
+"I want my money back Now were sitting on the runway After a  hour delay waiting for the baggage to begin loading ",negative
+"with Karen and found her unhelpful and rude called United at the time  told she could board but Karen would not accept ",negative
+"she has crossed For prior times with other carriers and no issue Karen was rude untrained and unhelpful I also spoke ",negative
+"nexus confirmed that at any crossing via air car or boat she can travel with only Nexus ",negative
+" employee yelled at her  employee stood with others whispering and pointing at her from behind counter ",negative
+" refused boarding with Nexus nexus confirmed she should not be refused ",negative
+"Ive had on an airline Everyone else has been great but she soured the whole experience for me Hope shes not there next time ",negative
+"thanks got put on the am flight tomorrow Dont have much faith itll get off the ground tomorrow though ",positive
+"I think Im shot Cant find a flight that arrives before business SAN on thu Really want to go too ",negative
+" days maybe ",negative
+"Flight Booking Problems a flight using credit from a previously Cancelled Flightled flight Cant get thru on the phone and cant book online Help please ",negative
+"Absolutely The staff was amazing ",positive
+"you are horrendous Pull your shit together ",negative
+"you guys are perfect as always  WeRVirgin ",positive
+"What is the policy behind changing passengers seating assignments at the gate ",neutral
+"why are you the ONLY airline that is not flying out of Nashville International Airport today ",negative
+"finally got through Thanks ",positive
+" I have spent  minutes and counting on hold With you today After first  minutes I gave up Trying again  on rd min ",negative
+" BlueManity brought tears to my eyes JetBlue s commitment to giving back to the crewmembers and the community is aww inspiring ",positive
+"will you please update your website with the most current flight status And update your customer service phone  on thx ",negative
+"If I couldwanted to call I wouldnt use the internet to make a reservation ",negative
+"Darn it first in line for no upgrade Wish I understood the policy  ",neutral
+"Waiting for my luggage on flight  Is there a delay ",negative
+"It is super frustrating that the folks at the United Ticket Counter in Pittsburg arent honoring their own Media Rate united fail  ",negative
+" minutes after arrival and no bags for most people UA from den to ewr How long should we wait until a ual rep comes here ",negative
+"Another great flight  crew Las VegasChicago   Thanks ",positive
+"I recommend upgrading your IVR and using call back email and texting from a know caller ",negative
+"an entire flight of luggage missing at dca  Over an hour and nobody knows anything ",negative
+"you get to hold called twice only to be kicked offcalls  phone died  AListpreferred ",negative
+"It doesnt matter who you directed me to Its the principle of the matter When I gate checked the stroller it was ",negative
+"Thank you Significant Other much its been a very stressful day ",positive
+"me too In the future have a better harsh weather preparedness plan Significant Other much of your staff called out that everything snowballed ",negative
+"which is why my next flights to Miami will be on another airline ",negative
+"Received email wresos to my email that isnt associated to SWA account I own with Carbon Copy Information for my sister FRAUD please Direct message me ",negative
+"just did thank you ",neutral
+"Your onboard wifi is Significant Other bad its taking me  minutes to send this tweet Working is off the table disappointed  ",negative
+"I was supposed to be on flight  from Charlotte to RaleighDurham International Airport pm yesterday Is the same flight scheduled for departure tonight ",neutral
+" could you please send me a phone  to the refunds department We have submitted our claim through email without success ",negative
+"Im not this person but Ive been sitting in Denver for three hours and all I want to do is get on a plane Please let me go home ",negative
+"flight  on  was delayed over three hours because the pilot never showed up ",negative
+"I just need to get to Richmond International Airport tonight Ive been in Newark Liberty International Airport for hrs now ",negative
+"good thing we noticed because she had rerouted  total passengers on an impossible triple connection as well ",negative
+"your gate agent rerouted an impossible itinerary and we had to find a new airline to get us home Super bummed about this ",negative
+"do you do auto callbacks Significant Other I dont have to wait on hold ",negative
+"just learning about your famous apology in social media marketing Is Twitter an asset for Jet Blue now ",negative
+"Learning about your awesome twitter management today in my Social Media Marketing class keep up the good work ",positive
+"I normally ❤️ you but this Late Flightst flight experience was the worst  hours on runway no wifi  tv not working properly ",negative
+"unfortunately not I think I watched it take off from the bus Rebooked for a Late Flightr flight now plane strain sand automobiles  ",neutral
+"Any way to change from Main Cabin to Main Cabin Select on same flight without paying a change fee penalty ",neutral
+"waiting for flight  to memphis Incredibly rude  gate agent waited until after departure time to announce delay  of  rude  ",negative
+"I dont see how I need to spend an extra  bc of ur equipment failure ",negative
+"I dont need to make any changes I reserved my seats when I bought my tickets and there was an error  now there are no comp seats ",negative
+"its  and no power outlets at the seats on a  hour flight to California Seriously This is why airlines are failing Pathetic ",negative
+"thanks kp but luckily my transfer has maintenance issues and is still delayed Significant Other I didnt miss my transfer ",negative
+"No not received any emails in either Inbox or junkspam ",neutral
+"chances of flight leaving Nashville International Airport tomorrow at  am to LGA ",neutral
+"got it squared away Thank you I had a man on the inside help me out ",positive
+"please Private message me the number where I can lodge formal complaints Thx ",negative
+"Just sent you a Direct message with the details ",neutral
+"hard to tell but was told wifi only worked for one side of the plane ",negative
+"Thks For tip Seems like a workaround rather than a customerfriendly solution They should have an easily accessible email ",negative
+"who can tell me where they are ",negative
+"flight  have already been Cancelled Flightled once been trying to get home two days Staff being very unhelpful ",negative
+"each flight is worse than last flight attendants dont even know whether the plane is equipped with power outlets at the seats ",negative
+"flight  agent now wandered off Pilots came out looking for her Went to charge her personal phone which shed been txting on ",negative
+"Tried to Direct message you it wont let me as it says you are not following me ",neutral
+"Thank you that it is not just a livery it is a culture that  crewmembers embody daily thanksDave ",positive
+" tomorrow from Richmond International Airport to BOS Looking good or am I better rescheduling ",neutral
+"the phone number the gate gave me doesnt work either What is your customer service phone number ",negative
+"done ",neutral
+"your site clearly explains we are allowed a carry on This was allowed at Pittsburgh International Airport but not BOS How does that make sense ",negative
+"never in my life have I dealt with such poor customer service irresponsible staff and lack of care LGAIAH day  baggage in NC ",negative
+"new CEO seeks the right balance to please passengers and Wall   Times Colonist ",neutral
+"Haha I figured that I was meaning theres no return flights out of Charlotte Its like NA for a week plus ",neutral
+"rocking the Tim McGraw hold music ",neutral
+"flight  is not leaving at  because we havent even begun to board yet Please update your website ASAP ",negative
+" and another sent him to the wrong lineoh and the kiosks werent working thanks  ",negative
+"also your employees were LESS then helpful when was checking his bag Two just left their desks completely  ",negative
+"Trying to make the change in advance not just  hours prior…tried it online earlier and it wanted  in change fees ",negative
+"Significant Other loyal that Im driving to NYC from PA to fly Virgin since you cut Philly flights  ",positive
+"bags are still in Houston since Friday and still have not been reimbursed the baggage fee ",negative
+"I got a flight at am on Thursday but looking for something tomorrow anything available ",positive
+"we desparately need yall to make a nonstop BNA TUL Cmon itll be popular 😄 right ",neutral
+"thank you for the response How can I got about getting the points onto my rewards account ",neutral
+"I will I love flying with you all Great service ",positive
+"flt  no gate agent no announcements Significant Other unprofessional Time to go back to ",negative
+"Thanks KP Please also mention the Quiche breakfast and Tandoori chicken dinner entrees and accompaniments are truly First Class ",positive
+"flt  departure time has changed five times in the last  minutes Why dont you figure out a solution and announce once ",negative
+"from La Guardia Airport to San Diego ",neutral
+"missing out on over  points in one account Theyre now spread over four assuming I create accounts for them ",negative
+"right but the point was that my kids dont fly often but I do I bought four round trip tickets from DtW to Phoenix Sky Harbor International Airport Significant Other Im ",negative
+"im getting Information from the website but needing to check it and the alerts would be much more beneficial ",neutral
+"Is there something going on with your alerts Flights been delayed several times for my parents and im not receiving any alerts ",negative
+"charging   change a flight is a rip off the reason I have  is out of my hands  I want  reschedule same flight but in July ",negative
+"you Cancelled Flightled my flight to BNA I have flight from Nashville International Airport  Chicago Midway Airport tomorrow AM You stranded me in DEN Ive been on hold all day ",negative
+"thanks I think weve got it figured out ",positive
+"I just spoke to the baggage claim center and they gave me travel credit but will not be responsible for the cost of a ",negative
+"heard about the charge for st bag and tighter seats  no need to be a loyal JB customer anymore ",negative
+"on hold for  hours You know what just keep my money ",negative
+"Umm Significant Other no reason as to why this is Is there someone different I should contact or contact me to get a definitive answer ",negative
+"Stuck in Washington Dulles International Airport going on  hours waiting for a ferry flight from Nashville that u cant tell when it will arrive Ridiculous ",negative
+"Thanks for the response Was able to get my situation resolved Not a fan of Mother Nature today  ",positive
+"Is there any way to add a Known Traveler Number to an existing reservation online If not why not ",neutral
+"needs to offer a college student discount Significant Other i can fly home 😭😭 ",neutral
+"Thank you for the service credit And to for positive thoughts ",positive
+"Ill give u a chance but I dont think Ill fall for it back to delta  ",negative
+"Great thanks ",positive
+"be responsible for replacing it ",negative
+"new stroller The travel credit doesnt help cover the cost of a new stroller Your crew ruined it and therefore should ",negative
+"no they were to busy taking to each other and I needed to get to an audition ",negative
+"was never given one ",neutral
+"quick response offering assistance but lack of follow through  not really the service I was expecting ",negative
+"Thank you Significant Other much for stepping up your game and making my day after night of elevator music Much appreciated ",positive
+"used to love you but you keep rescheduling my flights south worst  ",negative
+"where do we start Ive already wasted  hrs of phone wait time already  ",negative
+" just talking to customer service makes me appreciate you even more They could learn Significant Other much from you ",positive
+"My brother  his girlfriend’s flight Cancelled Flightled  times now leaving  hours Late Flight and dropping letter grades at school Help ",negative
+"Thank you The email about RR pts  how to gain more wasnt clear Significant Other all of mine r gone Anything u can do is appreciated ",neutral
+"remember  Im very doubtful and not very hopeful  ",negative
+"can you please Direct message me my flight has been delayed going into CharlotteDouglas International Airport which will force me to miss my connection to La Guardia Airport at pm ",negative
+"you are really trying me today ",negative
+"looks like Im settled in to where Im going Thx ",positive
+"flt  has had two more updates in the last  minutes ",neutral
+"flight pilot  spilled his tea on the radio Yay for delays Almost an hour now ",negative
+"I just sent it over ",negative
+"hahayeah i did just making a joke ",neutral
+"I would love for you to fly my best friend home to TF Green Airport for a weekend 😊 ",positive
+"do they have to depart from Washington DC ",neutral
+"please please please let my plane back to the gate Significant Other I can get off as I will miss connection due to CharlotteDouglas International Airport closing  ",neutral
+"weve flight  been sitting on the tarmac of dca for a while now waiting on a gate Can we just use another gate ",negative
+"I hope flight  is not being delayed because flight attendant didnt come to work no backup  ",negative
+"you made us miss our flight first class now I cant even enter the admirals club Not happy Direct message me to fix this ",negative
+"shes still stranded in DC Sat until am with  other kids They were starving and exhausted ",negative
+"Airways Short Interest Down  in January JBLU  sleekmoney ",neutral
+"Would love to combine AA and USAir accts Unfortunately one has my middle name  one has middle initial Wont allow change ",neutral
+"I had a rep  min in who said she couldnt help Significant Other transferred me to dividend miles customer service ",negative
+"right on Up Up  away ✈️🌞 ",positive
+"your customer service stinks Trying to book a flight for hours now and keep getting hung up on us airways sucks  ",negative
+"Significant Other what do you offer now that my flight was Cancelled Flighted and Im stranded away from home and work ",negative
+"been on the phone for about an hour waitingcan you please answer Thank You not cool  ",negative
+"just get the RR credit card and get the points of family that way ",neutral
+"Sent Thanks VP ",positive
+"what does TSA Pre on my boarding pass mean ",neutral
+"great smooth flight too 👏👍 ",positive
+"I would go for rd time to Jamaica to volunteer With at risk youth fly it forward  dc  st patricks foundation  rotary  ",neutral
+"Thx for responding  When bags came there was mad rush towards end of jetway—why not just put thru baggage claim ",negative
+"we are on usaa flight We arrived at dca at  Waiting on our gate for apx an hr now No update ",negative
+"Have an agent with reservations contact me instead of asking me to waste my time by sitting on the phone for hours ",negative
+"If you believe in keeping your customers happy especially after a mistake was made on your part ",negative
+"no it was  flight Cancelled Flightlations one due to weather one mechanical paid own hotel bag held in transfer No vouchercompensation ",negative
+"i got email that my reservations got Cancelled Flightled and i will be refunded Nothing got refunded as of yet ",negative
+"Nashville airport has runways open It appears southwest is only airline Cancelled Flighting flights Is this likely to change ",negative
+"I would fly somewhere hotter then here Puerto Rico here I come laughing out loud ",neutral
+"great job communicating to the passengers Flight  doesnt exist anymore ",negative
+"thanks Travis at Philadelphia International Airport A East checkin for knowing baggage policies Skis  boots count as  Teach your mgr who didnt know ",positive
+"Is expiring the offer to buy or transfer United MileagePlus miles with discount Many offers during a year ",positive
+"not yet Supposed to get it early evening tonight Dont want to have to go to the store and buy new necessities ",negative
+"How It is not possible to call SWA on the phone You put me on hold for an hour and then cut me off ",negative
+"been with my GF for yrs shes from SF  I live in Tulsa SWA always takes me there to see my love SouthwestLuvSweeps ",positive
+"Hi there I just got my known traveler and would like to add it to a flight that I already purchased Whats my best option ",neutral
+"I applied for a job at PDW where could I go for follow up Id really love the job ilovejetblue  ",neutral
+"Connecticut❄️ ",neutral
+"probably wouldnt be doing it had someone returned my call or email Case number  ",negative
+"I cant even fit my name on the first two lines yes Please do pass on feedback This is a big downgrade from previous years ",negative
+"told no gates open at ORD needed to wait mins Still waiting after about For mins ",negative
+"And its  with no sign of boarding Can I please get another update ",negative
+"still cant get a real person on the phone to book a flight Ready to just go with jet blue  since they care us airways sucks  ",negative
+"after missing my flight and reFlight Booking Problems x I just walked onto another flight and my phone was still on the seat ",positive
+"Hi JH my experience with United has been entirely disgusting but yes Id like assistance in getting compensated for my bag ",negative
+"took this picture on Thursday awesome  ",positive
+"my flight was Cancelled Flightled Monday Just looking to Cancelled Flight and credit my card Thats all ",negative
+"still on the ground mins after planned departure And this is California No weather here Originally told  min delay ",negative
+"I understand Wonderful Miriam in customer service who was able to reroute me Got any rental car discounts ",neutral
+"thank you Just sent msg ",positive
+"I did get the email Thought i wasnt supposed to reply to those😂 ",neutral
+" hours Late Flightr and the flight has been Cancelled Flightled You gotta work on your internal communication skills ",negative
+"had a horrible experience flying from Montego Bay to Philadelphia on   check a golf bag constant selling inflight ",negative
+"Sure did Only waited about min Yay ",positive
+"employees spreading a bit of MardiGras cheer at  this morning in Atlanta NFTYConvention ",neutral
+"Having some trouble checking in Can you please add me Significant Other I can Direct message you ",negative
+"WiFi on yesterdays flight extremely slow a waste of  and lost the travel time for work ",negative
+"Haha youre doing everything right Dont change a thing Slash this Twitter engagement just makes you even cooler best airline  ",positive
+"any updates on flight  from Norfolk International Airport to Philadelphia International Airport no one at gate  ",negative
+"Yes Works in Firefox ",negative
+"As one of the travelers affected by the Boston storm Im shocked at Virgins complete apathy toward their customers ",negative
+"your checkin system is poor  ",negative
+"haha thanks for the explanation ",positive
+"We’re looking for our next FlyingItForward flier from DC Tell us where youd fly  why ",neutral
+"The airline is embarrassing itself I get that bad weather isnt your fault but your response to it couldnt have been worse ",negative
+"should use this in their next airline commercial laughing out loud  ",neutral
+"Grouping Virgin in with the others now Boston Logan International Airport weather has exposed their actual Cus Serv model Never Flight Booking Problems with Virgin again ",negative
+"JH thank you I finally got through the second time ",positive
+" I need to fly from Greenville  Spartanburg Airport to DSM but claims theres no sched avail I can book separately but why not together ",negative
+"Thank you  hung up after hr min on hold Would you like me to Direct message you contact info ",negative
+"new CEO Robin Hayes battles to appease passengers and Wall Street  Business In Savannah ",neutral
+"nice touch with using my first name Very intimate Ill be filing a claim soon to be reimbursed Have a us airways day ",positive
+"Dear Virgin customer while youre stranded in SF for  days  cost well do the very least we can to accommodate you ",neutral
+"Our flight was originally supposed to leave at pm  now we wont leave until  This is the nd time this has happened ",negative
+"Supposedly theyre out for delivery Ill believe it when I see it ",negative
+"Thank you Yes I was hoping to speak with someone directly but appreciate the link nonetheless  ",negative
+"what is the name of this tailfin ",neutral
+"how about a drink voucher for the next flight wink wink  ",positive
+"While other airlines werent Cancelled Flighting flights into BOS and helping their customers get home Virgin was saying Good luck ",negative
+"what link Those are all the email offers u sent me in a year to buytransfer milesThe last  just expired ",negative
+"thanks finally made it Missed meetings but what can I do now ",negative
+"I’m cool with weather delays etc But lying and deceiving passengers to keep them from changing is reprehensible you suck  ",negative
+"I just want to get home before Wednesday Joke is over hrs of Cancelled Flightlations and delays is enough ",negative
+"not only was it great but you return my calls the day after Couldnt ask for more myVXexperience ",positive
+"Could you tell me if this bag would be accepted as a personal item  Can i bring one carryon bag plus this ",neutral
+" which you finally Cancelled Flightled ",negative
+"you need this song for your next commercial httpstcojUrHZRQc SWA love  ",neutral
+"thanks 😒 ",positive
+"customer service 👎 ",negative
+"Priceless United stranded my daughter at OHare United did zero to keep her safealone on a plastic chair for h  United Air ",negative
+"Hi again any updates here ",neutral
+"Thank you for the vouchers after the long wait on the runway Saturday night at BWI I really appreciate it SWfan ",positive
+"I would fly to Washington DC to see the actual Constitution and the Declaration of Independence in honor of a US Navy friend ",neutral
+"thats why u guys are my  choice ",positive
+"take a lesson from  they know how to treat customers ",neutral
+"plus you horrible seating and poor customer service everywhere Ive flown now you take away the mileage programhorrible ",negative
+"youd learn if you listen to your customersyou do want you asks their customer what they want ",negative
+"thanks for the reply something is off with the phones becuz after  dropped calls at  hours on hold I got through on  ring ",positive
+"ma rks th birthda y with A pa inted in Bluma nity pa int job ",neutral
+"you Cancelled Flightled both my flights and refused to give a voucher despite no flights for days never again  ",negative
+"I just think if I am staying With your airline  rescheduling a flight I shouldnt absorb a fee that is the cost of  my flight ",negative
+"Airlines Cancelled Flights OC Fort Lauderdale Hollywood International Airport flight  today  to switch No notice no apology Done flying UnitedAirlines ",negative
+"sorry wrong link for the bag  Thats the one i meant ",neutral
+"flight  LAXIAD back rows NOT CLEANED prior to boarding How gross is that to find used tissues in your seat Please ",negative
+"thank you 😊 ",positive
+"what is DM ",neutral
+"your employees were great ",positive
+"confirmation number for new reservation is FPMY I am traveling with a  year old please email ",neutral
+"why no charging station in SAN ",negative
+"I would be on my way but wether has delayed yet again Love the Charlotte ice storm Good luck with mad customers ",negative
+"Please staff your flights approproately Our entire flight is delayed because FA isnt here I shouldnt have left Delta ",negative
+"tooooo many Cancelled Flightations My chain of command hates me now ",negative
+"started my flight with a scolding for using an overhead bin that was then offered to the person seated next to me ",negative
+"I travel a lot and I get it Youre still my fave but Newark Liberty International Airport to Cleveland w min layover to connect to DC  our best option Come on ",negative
+"pm and my bags still not here not even a courtesy toiletries kit not the flight experience I was expecting very disappointed ",negative
+"continue button generated a trip to plan your trip page ",negative
+"have done that Sadly no flight from CharlotteDouglas International Airport has gotten to Indianapolis International Airport today and we head back to Tampa tmrw ",negative
+"holding  min and listening to your shitty ads on repeat for your credit make me hate your airline even more is better ",negative
+"Airlines Cancelled Flights OC Fort Lauderdale Hollywood International Airport flight  today  to switch No notice no apology We are done flying UnitedAirlines ",negative
+"can you send me another confirmation email ",neutral
+"it would be super if you paid as much attention to actual fliers as you do to credit card holders ",negative
+"why are we delayed  flight  ",negative
+"was rebooked but sucked big time Crappy layover Customer service very subpar ",negative
+"Sending thanks to employee Freddie in Philadelphia International Airport Admiral Club A East for allowing me to give a day pass to my sibling stuck there today ",positive
+"All these changes Way to stick it to your Premiere K loyal customers Why make things harder for those that loyal to you ",negative
+"thanks for the offer but I finally made it to my destination albeit hours Late Flight ",negative
+"MCODCA flight almost full of people screwed by the MSYDCA Cancelled Flightation and didnt Cancelled Flight SWAmistake ",negative
+"can i take my electric skateboard on a domestic flight if so do same policies listed on your site for regular boards apply ",neutral
+"This could be the beginning of a BLUEtiful relationship  life needs frosting  ",positive
+"can I get free wifi since the flight  was Cancelled Flightled ",negative
+"Your customer service for Mileage Plus customers is a disgrace I just spent  min on the phone to reset a pin number with no luck ",negative
+"No I do not I was only given a Flight Booking Problems reference number ",neutral
+"thanks for the upgrade😉 Significant Other far Significant Other good KeepItUp ",positive
+"thank you I like the quick response on Twitter ",positive
+"Currently on standby to Lax then it is a  hour ride to Palm Springs Long day starting at a snowy  am in philly ",neutral
+"no but seriously wtf no chill  ",negative
+"Yes but they couldnt explain the  hour and  minute hold time ",negative
+"thank you Is there a possibility it will change ",neutral
+"are we good ",neutral
+"how come ABC is the only one of the network channels you dont have ",neutral
+"sorry I hate united i wont get to see my family until Thursday ",negative
+"Thanks for the timely service  great staff getting my wife and me to and from Cancun this past week for our honeymoon ",positive
+"done just now thanks ",positive
+"I dont know Ive tried to call for confirmation but calls arent going thru Can you let me know ",negative
+"Your website Flight Booking Problems experience is an obnoxious upsellladen disaster for anyone with half a brain ",negative
+"like  weeks after my flight Creative ",neutral
+"Flt  is having some MAJOR delays bc ground crew was Significant Other SLOW The flight crew has been terrific Been  hours on the ground😡 ",negative
+"Im traveling around the world until the end of the year  numbers do me no good ",negative
+"holy high speed internet batman Speeds at United Club at Washington Dulles International Airport are insanely fast Thanks ",positive
+"can u get me on flt  instead of  Retweet now ",neutral
+"love traveling with Jetblue Cant wait to go to Paris oui oui NYC was awesomeee ",positive
+"It was º and some of us had left coats in our luggage in anticipation of cramped overhead bins  ",negative
+"I am furious Youre firm is a disgrace Despite all our efforts you did zero to protect our daughter All alone at night  United ",negative
+"knows whats up That BlackHistoryMonth commercial Just another thing to add to reasons why I fly with SouthWestAirlines ",positive
+"too Late Flight now ",negative
+"Airways Adds New Charter Flight to Cuba  Travel Wires blog ",neutral
+"Aww is it I guess now I need to book a flight to somewhere warm ASAP Any suggestions ",neutral
+"I have now called  times in the last three days Thats unacceptable Im willing to wait on hold but thats not an option ",negative
+"YOU ARE AMAZING YOU ARE THE BEST FOLLOW ME PLEASE Anderson Regional Airport I FOLLOW YOU BACK🙏🙏🙏✌️😉 ",positive
+"Ive been on hold for over  hours Need to rebook a flight please help ",negative
+"worst service ever 😈 ",negative
+"thanks for your attention I would actually like to make a specific complaint about customer service at DCA What is my best option ",negative
+"cant believe United cant find someone to just simply check a seat back for a missing passport Loved United but debating choice ",negative
+"your social media team just said sorry Thankfully submitting a complaint got resolution from an amazing rep who called ",positive
+"Im scheduled to come back tomorrow finally but I dont know SWA hasnt flown out of yet but has ",neutral
+"flight  Cancelled Flightled My wife is stuck in Phoenix on the way from slc to san ",negative
+"I know where you guys jet LOL but if you love me Significant Other much help a brother out  Hot weather great nightlife  hour flight ",neutral
+"I have been rebooked but It has been handled very unprofessionally Cancelled Flightations happen but the disorganization is uncalled for ",negative
+"conf number FMJTYL delayed  any chance of getting an earlier flight fll to phx ",neutral
+"do you think there Will problems at Newark NJ on Saturday due to expected snow ",neutral
+"Got it I am following the United page ",neutral
+"Thank you for the speedy response I figured it may be something of that nature You guys and your fine print haha ",positive
+"Amazing customer service as well Will definitely fly with you guys again if my instrument is involved   ",positive
+"When are you going to be flying in and out of Nashville The Deicer is in Are you short on planes and is it tomorrow morning ",neutral
+"First base already I like your style ",positive
+"Hold for  min a couple of rings then mailbox has not been set up yet Customer service forwarding to their cell phones Cmon ",negative
+"Does your home airport not count in the badge system My TB account says  flights but Ive taken  this year ",neutral
+"is bag check cut off  minutes before the original departure time or the estimated time shown online ",neutral
+"YOU ARE THE BEST AIRWAYS Follow me please🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏 ",positive
+"If you can waive a fee at time of Cancelled Flightation you CAN WAIVE IT AT A FUTURE DATE us airways  ripoff  poor customer service  ",negative
+"flight  sitting at John F Kennedy International Airport with delays for  hrs No employees to load bags terrible  ",negative
+"Airlines CEO Jeff Smisek Disloyal to Loyal Workers via ",neutral
+"The guidelines say xx my bag is xx Significant Other its a bit taller than the guidelines Is that gonna be a problem ",neutral
+"thank you I wish the lady in Little Rock had told me that in the morning when I asked her ",positive
+"no claim number Havent been back to iAd baggage since Is there a phone I can call to speak to someone ",negative
+"You officially have the worst customer service of any airline Ive ever dealt with southwest airlines  poor  ",negative
+"think you need to follow me for a Direct message ",neutral
+"Fastest response all day Hour on the phone never got off hold Hour in line never got to the Flight Booking Problems desk ",negative
+"had to rebook through Atlanta  now drive to Nashville Had to pay ridiculous price difference Bad weather good for business ",negative
+"When do you all expect to open the reservation through November ",neutral
+"dont worry Im gonna share with my row 😁 ",neutral
+"Feeling helpless at Tanpa airport How can I talk to someone Flight delayed For times Need help Missed connections will be prob ",negative
+"wont waive  fee due to neptune  Cant use credit Without paying fee Couldnt get to destination to use their tic wa iv ethe fee  ",negative
+"no wonder you are the lowest rated airline in america shameful  USAirways ",negative
+"how are you even still in business i have been trying to call for hours this is pathetic ",negative
+"wow this airline is a joke absolutely horrendous customer service you guys should be ashamed ",negative
+"Flight Cancelled Flighted because of Neptune Could not get to my destination not my fault  waivefee  ripoff  poor customer service  ",negative
+"I’m resending the confirmation code in a Direct message ",neutral
+"I did Direct message the details back on  when this started with phone number to reach me no reply either online or by phone ",negative
+"TREMENDOUS job Atlanta Airport saw SW celebrate Mardi Gras Another reason Im nuts for you guys ",neutral
+"YOU ARE AMAZING YOU ARE THE BEST FOLLOW ME PLEASE 🙏🙏🙏😢😢😢🙏🙏🙏 ",positive
+"But I got a bad exchange rate Significant Other want my money back Please can you refund without penalty ",negative
+"My flight UA to Denver for RMOUG has been recheduled  times ",negative
+"youre just using automated responses and dont have the decency to actually carerespond ",negative
+"JT the issue is with missed connections early gate closings and zero concern from customer service ",negative
+"here I was thinking how I could say Significant Other many nice things after getting upgraded but then you delayed my flight Its ok ",negative
+"Can you explain how it rewards us elite Premiere K members ",neutral
+"for our birthdays my fiancé  I want to travel Late Flight April Youre our fave airline but Frontier has this  ",neutral
+"You guys must have been swamped even took our corporate travel a long time to get in but everything worked out in the end ",neutral
+"No not yet I will notify them Im new at this 😊 ",neutral
+"YOU ARE THE BEST AIRWAYS FOLLOW ME BACK PLEASE 🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏😢😢😢😢😢😢😢😢🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏 ",positive
+"Its the rude and arrogant gate personnel Uncalled for Unprofessional the worst  ",negative
+"wont waive fees for flight Cancelled Flightlation due to neptune  To use credit  fee Couldnt reach destination not my fault  ",negative
+"Thank you And thanks for being Significant Other accommodating ",positive
+"wifi Anderson Regional Airport better seating ",positive
+"thanks We would like an apology and a full refund Please confirm when we will receive ",negative
+"Hi can you email me here Significant Other i can share the details Thanks ",neutral
+"Awwweesssooomee ",positive
+"my pts expired I made a prchase an online retailer to b told by SW that those wont show for  wks Significant Other too L  keepmy pts ",negative
+"I heard he has a virgin mobile hotspot  ",neutral
+"you got cheese pLate Flights too ",neutral
+"On all your flights ",neutral
+"Dad on Segway is the best part of this whole infographic ",positive
+"Are there any plans for a short haul airline in Europe Would defiantly fly with you guys  ",positive
+"yes still need assistance I dont have a flight home due to change in flight u made I miss all connections  ",negative
+"I believe you have to follow me in order for me send you a Direct message ",neutral
+"fat tuesday  Great job celebrating mardi gras  today at Atlanta Airport Another reason Im nuts for you ",positive
+"your customer service is terrible youre terrible thought you should know ",negative
+"when will the winners of DestinationDragons be announced ",neutral
+"any idea where the plane for flight  is coming from I thought flight  from John F Kennedy International Airport but that wouldnt explain delay ",negative
+"Its for me I spoke with a rep on the phone who suggested I Voice a concern via Email us on your site I did a few moments ago ",neutral
+"pls find my bag I need  get home Very frustrating Hope my bag is somewhere in Leaving the jfk  Without my luggage ",negative
+"tried calling multiple times i just wait and when it finally connects i get hung up on ",negative
+"Airways Sees Significant Drop in Short Interest JBLU  Mideast Time ",neutral
+"thanks Significant Other much for sharing Just added it to my site ",positive
+"Good point ",neutral
+"Allright Last question  the power outlets on my flight are available in the premium cabin Does that include economy plus cabin ",neutral
+"Well Its LA and then a hr car ride to a dark Palm Springs technically Maybe Ill get bumped to st class Den to Philadelphia International Airport on Friday ",neutral
+"Ive called you  x  waited on hold  min each time to be disconnected each time Enraging I need to speak to someone help  ",negative
+"the USA help line i accidentally booked a flight on a thursday instead of a wednesday and want to switch ",neutral
+"If you have wellpriced flights to Oahu  we could be best friends ",neutral
+"we dont need anybody else ",positive
+"stranded Phoenix With broken foot Both my flights fd Sunday for sickcrew Cancelled Flighted my mechanics flight today ",negative
+"You might be dealing with frustrated passenegers hope you all have a great day  thank you very much for an amazing airline  ",positive
+"Call me when you do and we’ll have to hook up ",neutral
+"flight  delayed for  hours for a deadhead crew Lets make  paying customers wait that is great service USAirways ",negative
+"if ur going  charge  for wifi make sure it works Brutal DialUp b a  by the time things load TheEnd GoodDay ",negative
+"is anyone working today Anyone want to pick up a phone ",negative
+"Ive been on hold for over  minutes Theres a lack of quality service here Nobody cares that I hate your shitty airline ",negative
+"Man of steel flies to more cities thoughand with more frequency too ",negative
+"Ladies and gents  United Airlines ",neutral
+"No worries at all I would rather be safe on the ground than take any chances Yes Tomorrow AM if Nashville International Airport reopens ☺️ ",positive
+"I do need help Cancelled Flighting my flight back Your calls times are ridiculous ",negative
+"Flight   Thanks ",positive
+"do you have an application for iOS Was looking and only saw Virgin Mexico   ",neutral
+"They couldnt get me first class on any of their flights Significant Other I just rebooked myself ",negative
+"but the gate agent and club staff got me priority standby for next Significant Other might only be minor disastertravelingwithsmallkids ",neutral
+"Ill be sendingposting complete details of the circumstances surrounding this matter United airlines should be ashamed ",negative
+"Hidden City forces me into crappy seat even though exit row is available on the first leg Your support cannot fix  ",negative
+"JT thanks for your help I’ll complete the form once we are back home ",positive
+"missed it Incoming on time then Sat for  then no jetbridge drivermissed a min connection from an on time flight ",negative
+"On flight  tomorrow Wed  DENBNA Will we be delayed or Cancelled Flightled ",neutral
+"I did but it only shows one flight one way When I try to go to the home page and book roundtrip theres nothing available  ",negative
+"were flying out tomorrow PLEASE DONT Cancelled Flight laughing out loud 😜✈️ ",neutral
+"Flight  NJB Blue La La departs enroute to San Juan International Airport ",neutral
+"this makes me happy I hope these arent empty promises ",positive
+"dropped x in past hour ",negative
+"seriously I want to work on the JetBlue social team Retweet ",neutral
+"thanks for the free birthday points yall are ALL RIGHT with me ",positive
+"What kind of hypocrisy is that Only Cancelled Flightling tickets with bad exchange rate if in your advantage united  ",negative
+"No The entire problem here is that I was never sent anything via email and only given a Flight Booking Problems number over the phone ",negative
+"calling that number was useless Heading to the airport now to pick up my bags this whole situation seems like a real joke ",negative
+"done messed up now I have planned a trip to CostaRica for pennies VacaTime ✈️💺 ",negative
+"not as sorry as I was when I sat on a plane for  hours waiting for the engine to be fixed and THEN got my luggage lost but k ",negative
+"You take to me places simply cantlike nonstop to St Lucia ",positive
+"theres only one flt PHLCRW per day ",neutral
+"Your staff members are looking at me like I have two heads Check your own websites ",negative
+"I will be traveling from Los Angeles International Airport to CharlotteDouglas International Airport to HTS I have been rebooked for tomorrow due to the travel advisory ",neutral
+"This flight was for my brother He has been rebooked and I was able to give my Information over the phone to get him a pass to the Club ",negative
+"I don’t use Passbook  I still love you though   I’ll just use my email in the future ",positive
+" from amsterdam to ewr   ",neutral
+"stuck here in Bush Intercontinental Airport waiting on flight  to Honolulu for  hours due to maintenance issues Could we have gotten a new plane Fail ",negative
+"About timeand just in time for my next flight Thursday ",positive
+"extremely disappointed  with poor the customer service provided after Cancelled Flighting my flight today unprofessional  ",negative
+"I was helped by a nice lady at Phoenix Sky Harbor International Airport checkin I spent For hours on hold in  hours Significant Other might want to look at efficiency there ",negative
+"I told myself last time I would never fly you again I really messed up today Thanks flight  Worst airline ever ",negative
+"yes  times I need some one to call me and help me change a flight I cant do online Thanks ",negative
+"pls send an IT tech  baggage office Poor guy is trying  print my claim  cant I need  get home Upgrade  printers MFPs ",negative
+"yes I can pay out of pocket that us not helping me for loosing my first class ticket to coach I want resolution or a comp ",negative
+"Frustrating daysNo flights home changed airlines Thank you Philadelphia International Airport USAirway employees  for help getting me back to IAH ",positive
+"If you have had any issues with United Airlines PLEASE retweet Paid for a full fight ticket and was given a standby instead ",negative
+"just tried to log in and was told email log in not currently available ",negative
+"Significant Other why did you Cancelled Flight tickets for thousands of people when you didnt like the exchange rate double standards  ",negative
+"do you have an email address I can write my account to Might be less likely to disappear ",neutral
+"Significant Other I wasted mins filling in  online forms you are telling me you didnt receive how do I know this wont happen this time ",negative
+"Thank you I know yall cant control the weather I appreciate yall working to get my flight rebooked the last two days ",positive
+"iiiii need help with my flight schedule haha ",neutral
+"can you make a premium wifi that I can pay  for that is decent slowfi  ",negative
+" why does my TSApre work with every airline BUT you I pay good money for that Spent  mins on phone to fix to zero success ",negative
+"Thats right  Game set match ",neutral
+"I love the dancing little richard cool beans ",positive
+"no thanks ",neutral
+"Yesterday Im sorted now ",neutral
+"thanks for that advice Significant Other helpful Cant believe you guys actually charge people to fly united ",negative
+"thanks for taking such good care of my luggage ",negative
+"yeah all For are rebooked for tomorrow AM Hoping the rd time is a charm for no Cancelled Flightled flights ",negative
+"CEO battles to appease passengers and Wall Street  ",positive
+"Does the economy plus cabin also qualifies as a premium cabin ",neutral
+"flight UA been sitting on tarmac for  mins with no report as to whyany input ",negative
+"A rd party service you use to sell your tickets has ripped me off Excellent service United is offering ",negative
+"Any plans to make the southwest app for Android not crappy ",negative
+"Thanks Ill keep checking Im trying to book our first Disney World vacation ",positive
+"Is it only  for my nd bag st bag too full ",neutral
+"flight  first officer not even at the airport wow Unreal staff waited until we all boarded to announce we are delayed ",negative
+" weeks to refund this ticket    totally unacceptable Fix this or Ill put it on blast on social media and TV ",negative
+"Thanks ",positive
+"I know it is hard to predict but how are flights from Dallas to Nashville tomorrow AM ",neutral
+"the highlight of being delayed free concert  ",negative
+"whose performing at T ",negative
+"Classic ",negative
+"Elizabeth at Washington Dulles just hooked me up with a new connecting flight at my gate Im super pleased ",positive
+"we are  mins from departure of  and no announced update nor an update to on time status Everyone just standing com eon  ",negative
+"can I get any kind of update on the delayed flight from Boston to Houston at  Really need to be back home tonight ",negative
+"how long did you have to hold We waited  minutes and gave up ",negative
+"we are delayed until he arrives ",negative
+"And really its a middle initial versus middle name All else the same Not spending my time on your computer issues ",negative
+"very disappointed I wasnt allowed to change seats after checking in early online for a flight tomorrow morning ",negative
+"Theyre all reservations numbers and none are in Hungary And my phone not working here You make it too difficult ",negative
+"if our already rescheduled flight is Cancelled Flightled is our hotel room paid for ",negative
+"cant checkin online for  flight tmrw fr Cancun Undefined error   not workingFamily of For dont want Cgroup Help ",negative
+"Does anyone ever answer your phone poor  ",negative
+"strikes again I strongly suggest you live tweet your ordeal Their media team appreciates the updates 😎 ",negative
+"flight  first a  hour wait for a deadhead crew then deadhead crew takes overhead bin space paying customers annoyed ",negative
+"with the weather mess in the South I missed my connection in CLT Impressed though with the Cust Serv phone reps today ",positive
+"Serious firing needs to happen at HNL They broke the wheelchair you loaned me after you broke mine ",negative
+"Call customer service and of course they just say theres nothing we can do and then offer a transfer and disconnect the line ",negative
+"Now submitted for the third time please check and confirm receipt Have taken screen shots in case it disappears again Thanks ",negative
+"whats yall corporate number bc yall are not trying to accommodate me at all ",negative
+"El Paso dealsMay❤❤❤😍🌿 ",positive
+"I been on hold with U for mins wasting my time and   I dont appreciate it WheresTheCustomerServiceAt ",negative
+"It was US  The gate was open after about  mins waiting What a great way to finish an  hour delayed arrival ",negative
+"how can you not know after two hours of us sitting on the plane with no bags off loaded the planes weight ",negative
+"You make it hard to fly with you Delayed over an hour and now the plane is turning around  heading back to the gate connection  ",negative
+"Always happy to help ",positive
+"we have just landed thank you anyway Btw flight staff on flight  were wonderful despite their full day and heavy load ",positive
+"redeemed themselves Flight out at  Had to call and negotiate but thank the Lord Im heading home ",negative
+"Total BS I offered to pay for a full First Class airfare Told Sold out  seats and they gave the seats to others crap  ",negative
+"if your policy changed you must advise at the time of purchase Same if you choose to vary it by airport We want a FULL refund ",negative
+"wanted to but you Cancelled Flightled my tickets They were too special i guess even for united ",negative
+"Im  for Flight Booking Problems without major problems  isnt bad👎👎 ",negative
+"dont check your baggage if you dont have to They will lose it ",negative
+"Im hoping we dont miss our Los Angeles International Airport  Hilo International Airport connection Not looking forward to being stuck at Los Angeles International Airport overnight with our teamAGAIN ",negative
+"well perhaps you could highlight where that is stated We travel between Canada  USA on United with only Nexus ",negative
+"why are yall trying to fly me to Chicago when I dont live there Send me home now Bullshit ass customer service ",negative
+"For flights Cancelled Flightled in one week Customer Service is 💩💩💩💩 ",negative
+"I have had For flights Cancelled Flightled through yall Im sick of it 😠😠 ",negative
+"very poor customer service thru out each of my cxl flights😔 I shouldve flew ",negative
+"Ive been waiting for the callback for EIGHT HOURS HOW MUCH LONGER ",negative
+" and a half hours on hold Hope it feels good to be a steaming pile of shit paid far too much for you ",negative
+"Nice Retweet The man of steel might be faster but we have WiFi just saying ScienceBehindTheExperience ",positive
+"eventually You should approach bags like they get it ",negative
+"What if my NYC flight is delayed and I miss my connection to Sacramento from Chicago ",negative
+"said they would give us a refund  days Late Flightr NO refund ",negative
+"how can you not know the weight of our plane after us sitting on the plane for  hrs Not convinced your company is safe for flt ",negative
+"we showed up to our flight several hours early Tried to call  was on hold  min bf call disconnected ",negative
+"stop ur bs promos of ✈️anywhere starting at  I click and everywhere Id fly The only place thats  is Cleveland Hopkins International Airport NoThanks ",negative
+"I have been in contact and know there are changes but its a destination you should really evaluate Thanks ",neutral
+"I know one thing would NEVER treat their customers like this ",negative
+"Significant Other happy you can accommodate peanuttreenut allergies on flight st online cover from air provider ",positive
+"I shouldnt have to spend my own  on a hotel because of a weather delay The weather being something COMPLETELY OUT OF MY CONTROL ",negative
+"thanks  ",positive
+"Hypocrisy Retweet Im sorry were not able to offer a full refund because the exchange rate is not what you were hoping for KP ",negative
+"All pieces were found and safely delivered to our home this afternoon ",positive
+"tried again Lovely customer service Thank you ",positive
+"poor old United never seem to get the response right  ",negative
+"obviously the staff at Newark Liberty International Airport  United or otherwise have not seen your ads about  being FRIENDLY and helpful ewr  worst airport ",negative
+"also why cant I preselect seats on SFOYYZ flight Im a Canadian Flight Booking Problems on httptcoaZltJhflv ",negative
+"does forelock guarantee the fare only or fare  seats ",neutral
+"Im concerned that you will Cancelled Flight my flight out of Nashville International Airport tomorrow am Should I be ",negative
+"think flight  from Nashville International Airport to Los Angeles International Airport will get off the ground tomorrow please  snow ba ma  ",neutral
+"really appreciate the follow up I always fly with yall for a reason ",positive
+"this is not a flight delay this is horrible planning on Jet Blue jet blue  ",negative
+"insane the craziness Ive seen with Jet Blue today at Newark Delayed  hours and now we are waiting for a Pilot jet blue  ",negative
+"Hi Does my upcoming flight  from West Palm to Westchester County Airport have FlyFi ",neutral
+"can you not see the thread ",negative
+"is there no way to switch to earlier flight to John F Kennedy International Airport even if I checked a bag ",neutral
+"YES For Your Information MY Western Nebraska Regional Airport ",neutral
+"another perfect flight How come on your planes the sun visors can stay down Other carriers make you raise them ",positive
+"No friendly skies from you today hr weather delay in San Francisco International Airport followed by hr mechanical delay while sitting on plane NoFun ",negative
+"once again your customer service rep was rude I asked a question and in turn got attitude Jane was no help Disgusted again ",negative
+"Awesome  thanks ",positive
+"im in same boat am flight to Jacksonville Get me out of here ",negative
+"Still love you guys But get me to Vegas already ☀️🌴✈️🍸🎿 ",positive
+"Gary who is serving us at Fort Lauderdale Hollywood International Airport airport counter is really TRUE BLUE Makes me feel at home even when a JetBlue flight is delayedl ",positive
+"FYI continuous texts and emails I am getting about the delay while held captive on the tarmac are not that helpful ",negative
+"so not only were you Late Flight you broke my luggage handle You paying for a new one ",negative
+"has the worst customer service on earth Will never fly that airline again ",negative
+"flight yesterday Cancelled Flighted Got to airport am today for an on time flight With was delayed Cancelled Flighted than reinstated which caused ",negative
+"Flight  ND departs enroute to ",negative
+"how are flights looking for tomorrow morning from Nashville BNA to Fort Lauderdale FLL  ",neutral
+"Are departing flights from Boston heavily delayed Flying out tomorrow morning  ",neutral
+"Your MileagePlus signup page is broken ",negative
+" for wifi just Significant Other I can tell my family Im gonna be Late Flight cause i had to sit in a grounded plane for the past two hours ",negative
+"paid for my own  rental car just to not go through this for the rd day  ",negative
+"I did Thank you ",positive
+"thanks I expected a wait Just not that long  ",negative
+"understand weather is an issue but on time Cancelled Flighted reinstated Cancelled Flighted with hardly any updates and doing nothing for me  ",negative
+"Despite Mother Natures best efforts goodhumored folks got us home safely in an area heavily affected by winter storms ",positive
+"sadly didnt get much help  As a travel agent this is Significant Other disappointing to me ",negative
+"bos to msp msp to aus aus to bos Site doesnt seem to display fields for the middle trip when I add the rd ",negative
+"me not to be able to rebook another flight Drove to Atlanta International Airport to catch a flight Was charged  just to get the a group I had ",negative
+"will call Thank you ",positive
+"yes today Flight is full now They said no to me at gate  ",negative
+"flt  CharlotteDouglas International Airport to Dayton International Airport supposed to depart  the still no crew schedulecontact  the pilot ",negative
+"Significant Other i ask for ice and the attendant snaps i dont have ice on this cart not  min Late Flightr  cups of ice to the people  rows ahead ",negative
+"was told by Supervisor that United disconnected their customer support  Significant Other there was nobody to address it now ig ive up  ",negative
+" I will for sure But my TSAPre works with other airlines Why is Jetblue different ",neutral
+" hours on hold oh wait for less than  minutes a useless CSR talked to me and put me back on hold for the last  minutes ",negative
+"Thanks It would be better from the gate agent at C in Charlotte boarding flight  ",positive
+"thanks for all the help Totally appreciate it and you made it super easy too ",positive
+"no thanks I think we have it straight ",negative
+"Thanks for taking care of me Today Michele rocked the customer service Gate  Hobby Airport ",positive
+"ticket couldnt be used bc unable to get to departing dest RSW bc of blizzard in BOS Told only way to use credit is  fine ",negative
+"if I cant get through to reservations how can they take a look  hour hold times are not reasonable in any industry ",negative
+"I feel very well informed yes the flight is indeed delayed Thank you ",negative
+"Why do I pay more for Coach Plus to be told preboarding that all overhead bins will be full for me ",negative
+"can I get some help changing a ticket  minutes on hold and counting ",negative
+"flying high thanks ",positive
+"can I use points to book a rental car ",neutral
+"how long is that flight ",neutral
+"ITproblems with the link th party  ",negative
+"just lost my business Enjoy your profits ",negative
+"I would drive   hours to jfk to board JetBlue to Vegas instead of closer Hartford airport Cramming more seats on planeNO MORE ",negative
+"if your air traffic crew could get their shit together no one would notice the rudeness of the ground staff ",negative
+"MY BAGS ARE st woman said it would be there on the next flight not there Significant Other now Ive got nothing Big wigs help me out ",negative
+"Flight  NJB Heres Looking at Blue Kid departs enroute to ",neutral
+"Punta Cana to enjoy weather n see my wifes family ",neutral
+"And we are glad to see what is going on and fix please Direct message me your confirmation  Significant Other we can check ",positive
+" ",negative
+"Not your finest moment in Boston right now ",negative
+"We were told by United to carry overcarry back for the refund ",neutral
+"no I had to leave for work Would have not been possible Significant Other I would love to have this replaced now ",neutral
+"I feel completely cheated I read your commitment to customer service via website and def did not get service suggested there ",negative
+"HA Youre fun ",positive
+"UR service is Significant Other shitty Pilot never showed up Significant Other we waited hours because another pilot was supposed to come but didnt Cancelled Flighted ",negative
+"exactly it states a secure document is a nexus card It does not state a passport must always be also presented Read it ",negative
+"Flight  NSW departs enroute to Indianapolis International Airport ",neutral
+"Being old I will miss my connection and can sleep at Oakland International Airport or get a hotel on my own dime rubs me the wrong way I wasn’t Late Flight ",negative
+"My Flight Booking Problems CLD just times out when I select it under Manage My Flight Booking Problems for months now I have emailed but no response Help ",negative
+"my flight was at  pm Still at the airport gee what service Do they care nope Delayed until  ",negative
+"very disappointed in CC Purchased ticket online With voucher and charge full amnt Would not hold price after refund Unacceptable ",negative
+"ph illy  lost and read program  Our customers get hot tea great crewmembers top notch Information  now BOOKS ",positive
+"Being put back on hold for what has now been an HOUR is completely unacceptable ",negative
+"Stop reposting same autoresponse That was return flight home imateacher  Couldnt get to Southwest Florida International Airport neptunewaivethefee not my fault  ",negative
+"contd They put her on  Private message flite tonite I think shes on now Worst customer service ever U need to fix it ",negative
+"thank you Glad to be heading home Great people at your call center ",positive
+"thx For replying After trying  get thru many times  vmail or people hanging up on us we talked  techcontd ",positive
+"ooh thanks ",positive
+"needed my flight Information Significant Other I can add my rapid rewards to my flight  First time I have flown with SW  wont do it again mad  ",negative
+"I keep getting disconnected after choosing the option unused travel funds on your automated customer service line SOS ",negative
+"why did I pay for extra space to be forced to put my backpack under my seat Its my only bag Flight  Unprofessional ",negative
+"we were on b  this morning from Boston to beautiful San Diego We really were bummed the satellite was broken  ",negative
+"knew that  has to be done at the Gate correct If Significant Other what time does gate open ",neutral
+"I was told there is no record of my refund Can someone please help me This has been a long day ",negative
+"I tried speaking to multiple people at your reservations desk after  min on hold wa iv ethe fee  poor customer service  Neptune ",negative
+"She met me from customer service at the arrival of flight UA PVDIAD Thanks you guys have really handled this storm ",positive
+"Great thank you Best of luck dealing with this horrible winter ",positive
+"thank you  ",positive
+"the TV Wifi was spotty Its just a nice feature for a X country flight Still wont keep us away love jet blue  ",negative
+"Significant Other technically I could drive to John F Kennedy International Airport now and put in Request for tomorrows flight ",negative
+"Please come to Minneapolis St Paul ",neutral
+"now finally in memphis Landed  minutes ago Still no bags Paying for a service that just gets worse ",negative
+"thanks for a terrible experience at EWR Customers should be treated as a priority not as an inconvenience try again  ",negative
+"Some rd party service known as EZEE flights A man who confirmed he was born in India told me his name was Steve Wilson ",neutral
+"The third wheelchair is broken ",negative
+"Significant Other Im penalized for packing lightly having  bag and paying extra for a seat ",negative
+"dropping passengers with small baby and  infants at your San Juan terminal As unloading baby officer writes me ticket for  ",negative
+"is that thestarter😁  ",neutral
+"amazing flying over  miles on UnitedAirlines  alliance last year still got jilted out of status money elsewhere  ",positive
+"On top of this a CSR went ahead and hung up on me after I called United to discuss this ",negative
+"I got it added thank you  ",positive
+"I agree If only there was a frequent tweeter discount Significant Other I could fly to see more friends ",positive
+"understood  but could I go and put myself on the standby list  hours prior to my flight ",negative
+"the whole plane Hoping for better luck on the return flight Sunday ",negative
+"freaking out about the fact you are fixing the engine from Charlotte to Orlando long day  ",negative
+"would have been a rough trip but LUCKILY we were on a virgin america  flight weather  ",positive
+"Always been a fan but maybe next time Ill fly for real customer service ",negative
+"thanks to my trip is all screwed up Ive had to move meetings and a dinner and im STILL not out of nyc yet ",negative

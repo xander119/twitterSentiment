@@ -1,0 +1,424 @@
+500 Random Tweets 66% Split Origin with Lexicon Classifer 
+
+Pct-Correct: 20.58823529411765%
+
+Pct-Incorrect: 79.41176470588235%
+
+Recall: 0.0%
+
+Precision: 0.0%
+
+F-Measure: 0.0%
+
+
+Correctly Classified Instances          35               20.5882 %
+Incorrectly Classified Instances       135               79.4118 %
+Kappa statistic                          0     
+Mean absolute error                      0.5294
+Root mean squared error                  0.7276
+Relative absolute error                140.1122 %
+Root relative squared error            166.5521 %
+Total Number of Instances              170     
+
+
+=== Confusion Matrix ===
+
+   a   b   c   <-- classified as
+  35   0   0 |   a = neutral
+ 100   0   0 |   b = negative
+  35   0   0 |   c = positive
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 1.000    1.000    0.206      1.000    0.341      0.000    0.500     0.206     neutral
+                 0.000    0.000    0.000      0.000    0.000      0.000    0.500     0.588     negative
+                 0.000    0.000    0.000      0.000    0.000      0.000    0.500     0.206     positive
+Weighted Avg.    0.206    0.206    0.042      0.206    0.070      0.000    0.500     0.431     
+
+
+Accuracy of : 20.59%
+---------------------------------
+
+Start Time : Fri Nov 25 12:45:40 GMT 2016
+
+Duration: 0.0 mins
+
+End Time : Fri Nov 25 12:45:41 GMT 2016
+
+fromDBLexFirst: F-Measure: 0.0%
+
+500 Random Tweets 66% Split Origin with Lexicon Classifer 
+
+Pct-Correct: 20.58823529411765%
+
+Pct-Incorrect: 79.41176470588235%
+
+Recall: 0.0%
+
+Precision: 0.0%
+
+F-Measure: 0.0%
+
+
+Correctly Classified Instances          35               20.5882 %
+Incorrectly Classified Instances       135               79.4118 %
+Kappa statistic                          0     
+Mean absolute error                      0.5294
+Root mean squared error                  0.7276
+Relative absolute error                140.1122 %
+Root relative squared error            166.5521 %
+Total Number of Instances              170     
+
+
+=== Confusion Matrix ===
+
+   a   b   c   <-- classified as
+  35   0   0 |   a = neutral
+ 100   0   0 |   b = negative
+  35   0   0 |   c = positive
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 1.000    1.000    0.206      1.000    0.341      0.000    0.500     0.206     neutral
+                 0.000    0.000    0.000      0.000    0.000      0.000    0.500     0.588     negative
+                 0.000    0.000    0.000      0.000    0.000      0.000    0.500     0.206     positive
+Weighted Avg.    0.206    0.206    0.042      0.206    0.070      0.000    0.500     0.431     
+
+
+Accuracy of : 20.59%
+---------------------------------
+
+Start Time : Fri Nov 25 12:46:25 GMT 2016
+
+Duration: 0.0 mins
+
+End Time : Fri Nov 25 12:46:27 GMT 2016
+
+fromDBLexFirst: F-Measure: 0.0%
+
+fromDBLexFirst: 1
+fromDBLexFirst: 1
+fromDBLexFirst: 1
+fromDBLexFirst: 3
+fromDBLexFirst: 1
+fromDBLexFirst: 3
+fromDBLexFirst: 3
+fromDBLexFirst: 3
+fromDBLexFirst: 1
+fromDBLexFirst: 1
+fromDBLexFirst: 1
+fromDBLexFirst: 1
+fromDBLexFirst: 1
+fromDBLexFirst: 3
+fromDBLexFirst: 1
+500 Random Tweets 66% Split Origin with Lexicon Classifer 
+
+Pct-Correct: 45.0%
+
+Pct-Incorrect: 55.0%
+
+Recall: 48.79310344827586%
+
+Precision: 72.37851662404093%
+
+F-Measure: 58.29042224510813%
+
+
+Correctly Classified Instances         450               45      %
+Incorrectly Classified Instances       550               55      %
+Kappa statistic                          0.1601
+Mean absolute error                      0.3667
+Root mean squared error                  0.6055
+Relative absolute error                 95.66   %
+Root relative squared error            138.3515 %
+Total Number of Instances             1000     
+
+
+=== Confusion Matrix ===
+
+   a   b   c   <-- classified as
+  25  75 129 |   a = neutral
+  13 283 284 |   b = negative
+  16  33 142 |   c = positive
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.109    0.038    0.463      0.109    0.177      0.133    0.536     0.255     neutral
+                 0.488    0.257    0.724      0.488    0.583      0.233    0.615     0.650     negative
+                 0.743    0.511    0.256      0.743    0.381      0.184    0.616     0.239     positive
+Weighted Avg.    0.450    0.255    0.575      0.450    0.451      0.201    0.597     0.481     
+
+
+Accuracy of : 45.00%
+---------------------------------
+
+Start Time : Fri Nov 25 13:26:39 GMT 2016
+
+Duration: 0.0 mins
+
+End Time : Fri Nov 25 13:26:43 GMT 2016
+
+fromDBLexFirst: F-Measure: 58.29042224510813%
+
+500 Random Tweets 66% Split Origin with Lexicon Classifer 
+
+Pct-Correct: 43.6%
+
+Pct-Incorrect: 56.4%
+
+Recall: 47.81144781144781%
+
+Precision: 71.0%
+
+F-Measure: 57.14285714285714%
+
+
+Correctly Classified Instances         218               43.6    %
+Incorrectly Classified Instances       282               56.4    %
+Kappa statistic                          0.1386
+Mean absolute error                      0.376 
+Root mean squared error                  0.6132
+Relative absolute error                100.0169 %
+Root relative squared error            141.5102 %
+Total Number of Instances              500     
+
+
+=== Confusion Matrix ===
+
+   a   b   c   <-- classified as
+  11  39  65 |   a = neutral
+   4 142 151 |   b = negative
+   4  19  65 |   c = positive
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.096    0.021    0.579      0.096    0.164      0.165    0.537     0.263     neutral
+                 0.478    0.286    0.710      0.478    0.571      0.193    0.596     0.649     negative
+                 0.739    0.524    0.231      0.739    0.352      0.165    0.607     0.217     positive
+Weighted Avg.    0.436    0.267    0.596      0.436    0.439      0.181    0.585     0.485     
+
+
+Accuracy of : 43.60%
+---------------------------------
+
+Start Time : Fri Nov 25 13:29:15 GMT 2016
+
+Duration: 0.0 mins
+
+End Time : Fri Nov 25 13:29:18 GMT 2016
+
+fromDBLexFirst: F-Measure: 57.14285714285714%
+
+1500 Random Tweets 66% Split Origin with Lexicon Classifer 
+
+Pct-Correct: 45.733333333333334%
+
+Pct-Incorrect: 54.266666666666666%
+
+Recall: 48.651685393258425%
+
+Precision: 74.78411053540587%
+
+F-Measure: 58.95166780122531%
+
+
+Correctly Classified Instances         686               45.7333 %
+Incorrectly Classified Instances       814               54.2667 %
+Kappa statistic                          0.1676
+Mean absolute error                      0.3618
+Root mean squared error                  0.6015
+Relative absolute error                 96.0111 %
+Root relative squared error            138.5969 %
+Total Number of Instances             1500     
+
+
+=== Confusion Matrix ===
+
+   a   b   c   <-- classified as
+  38  97 187 |   a = neutral
+  17 433 440 |   b = negative
+  24  49 215 |   c = positive
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.118    0.035    0.481      0.118    0.190      0.153    0.542     0.246     neutral
+                 0.487    0.239    0.748      0.487    0.590      0.249    0.624     0.669     negative
+                 0.747    0.517    0.255      0.747    0.381      0.182    0.615     0.239     positive
+Weighted Avg.    0.457    0.249    0.596      0.457    0.464      0.216    0.604     0.495     
+
+
+Accuracy of : 45.73%
+---------------------------------
+
+Start Time : Fri Nov 25 13:30:02 GMT 2016
+
+Duration: 0.0 mins
+
+End Time : Fri Nov 25 13:30:05 GMT 2016
+
+fromDBLexFirst: F-Measure: 58.95166780122531%
+
+2000 Random Tweets 66% Split Origin with Lexicon Classifer 
+
+Pct-Correct: 46.1%
+
+Pct-Incorrect: 53.9%
+
+Recall: 49.82876712328767%
+
+Precision: 75.0%
+
+F-Measure: 59.876543209876544%
+
+
+Correctly Classified Instances         922               46.1    %
+Incorrectly Classified Instances      1078               53.9    %
+Kappa statistic                          0.1731
+Mean absolute error                      0.3593
+Root mean squared error                  0.5994
+Relative absolute error                 94.1825 %
+Root relative squared error            137.2631 %
+Total Number of Instances             2000     
+
+
+=== Confusion Matrix ===
+
+   a   b   c   <-- classified as
+  52 128 259 |   a = neutral
+  23 582 563 |   b = negative
+  39  66 288 |   c = positive
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.118    0.040    0.456      0.118    0.188      0.141    0.539     0.248     neutral
+                 0.498    0.233    0.750      0.498    0.599      0.268    0.633     0.667     negative
+                 0.733    0.512    0.259      0.733    0.383      0.177    0.611     0.243     positive
+Weighted Avg.    0.461    0.245    0.589      0.461    0.466      0.222    0.608     0.491     
+
+
+Accuracy of : 46.10%
+---------------------------------
+
+Start Time : Fri Nov 25 13:30:36 GMT 2016
+
+Duration: 0.0 mins
+
+End Time : Fri Nov 25 13:30:39 GMT 2016
+
+fromDBLexFirst: F-Measure: 59.876543209876544%
+
+2000 Random Tweets 66% Split Origin with Lexicon Classifer 
+
+Pct-Correct: 46.1%
+
+Pct-Incorrect: 53.9%
+
+Recall: 46.1%
+
+Precision: 58.91065908013277%
+
+F-Measure: 46.62646908981581%
+
+
+Correctly Classified Instances         922               46.1    %
+Incorrectly Classified Instances      1078               53.9    %
+Kappa statistic                          0.1731
+Mean absolute error                      0.3593
+Root mean squared error                  0.5994
+Relative absolute error                 94.1825 %
+Root relative squared error            137.2631 %
+Total Number of Instances             2000     
+
+
+=== Confusion Matrix ===
+
+   a   b   c   <-- classified as
+  52 128 259 |   a = neutral
+  23 582 563 |   b = negative
+  39  66 288 |   c = positive
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.118    0.040    0.456      0.118    0.188      0.141    0.539     0.248     neutral
+                 0.498    0.233    0.750      0.498    0.599      0.268    0.633     0.667     negative
+                 0.733    0.512    0.259      0.733    0.383      0.177    0.611     0.243     positive
+Weighted Avg.    0.461    0.245    0.589      0.461    0.466      0.222    0.608     0.491     
+
+
+Accuracy of : 46.10%
+---------------------------------
+
+Start Time : Sun Nov 27 14:45:43 GMT 2016
+
+Duration: 0.0 mins
+
+End Time : Sun Nov 27 14:45:47 GMT 2016
+
+fromDBLexFirst: F-Measure: 46.62646908981581%
+
+200 Random Tweets 66% Split Origin with Lexicon Classifer 
+
+Pct-Correct: 46.26865671641791%
+
+Pct-Incorrect: 53.73134328358209%
+
+Recall: 46.26865671641791%
+
+Precision: 60.901105035876725%
+
+F-Measure: 48.11850304767466%
+
+
+Correctly Classified Instances          93               46.2687 %
+Incorrectly Classified Instances       108               53.7313 %
+Kappa statistic                          0.1468
+Mean absolute error                      0.3582
+Root mean squared error                  0.5985
+Relative absolute error                103.42   %
+Root relative squared error            144.2311 %
+Total Number of Instances              201     
+
+
+=== Confusion Matrix ===
+
+  a  b  c   <-- classified as
+  4 16 23 |  a = neutral
+  3 69 58 |  b = negative
+  3  5 20 |  c = positive
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.093    0.038    0.400      0.093    0.151      0.104    0.528     0.231     neutral
+                 0.531    0.296    0.767      0.531    0.627      0.226    0.617     0.710     negative
+                 0.714    0.468    0.198      0.714    0.310      0.170    0.623     0.181     positive
+Weighted Avg.    0.463    0.265    0.609      0.463    0.481      0.192    0.599     0.534     
+
+
+Accuracy of : 46.27%
+---------------------------------
+
+Start Time : Sun Nov 27 17:14:28 GMT 2016
+
+Duration: 156.0 mins
+
+End Time : Sun Nov 27 19:50:50 GMT 2016
+
+fromDBLexFirst: F-Measure: 48.11850304767466%
+
+fromDBLexFirst: null

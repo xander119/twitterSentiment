@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="WSD">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WSD.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

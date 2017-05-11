@@ -1,0 +1,168 @@
+1000 Random Tweets 66% Split with only Lexicon Classifer 
+
+Pct-Correct: 44.8%
+
+Pct-Incorrect: 55.2%
+
+Recall: 44.800000000000004%
+
+Precision: 57.60982914572864%
+
+F-Measure: 44.96569048234743%
+
+
+Correctly Classified Instances         448               44.8    %
+Incorrectly Classified Instances       552               55.2    %
+Kappa statistic                          0.1539
+Mean absolute error                      0.368 
+Root mean squared error                  0.6066
+Relative absolute error                 96.5203 %
+Root relative squared error            138.9735 %
+Total Number of Instances             1000     
+
+
+=== Confusion Matrix ===
+
+   a   b   c   <-- classified as
+  24  77 127 |   a = neutral
+  11 286 287 |   b = negative
+  15  35 138 |   c = positive
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.105    0.034    0.480      0.105    0.173      0.138    0.536     0.255     neutral
+                 0.490    0.269    0.719      0.490    0.582      0.222    0.610     0.650     negative
+                 0.734    0.510    0.250      0.734    0.373      0.176    0.612     0.234     positive
+Weighted Avg.    0.448    0.261    0.576      0.448    0.450      0.194    0.594     0.481     
+
+
+Accuracy of Lex: 44.80%
+---------------------------------
+
+CorrectCount : 448 IncorrectCount :552
+Error-Rate: 55.2%
+
+Start Time : Thu Dec 01 19:42:23 GMT 2016
+
+Duration: 0.0 mins
+
+End Time : Thu Dec 01 19:42:26 GMT 2016
+
+fromDBLexFirst: F-Measure: 44.96569048234743%
+
+1000 Random Tweets 66% Split with only Lexicon Classifer 
+
+Pct-Correct: 52.4%
+
+Pct-Incorrect: 47.6%
+
+Recall: 52.400000000000006%
+
+Precision: 60.58190041279951%
+
+F-Measure: 49.84108160847197%
+
+
+Correctly Classified Instances         524               52.4    %
+Incorrectly Classified Instances       476               47.6    %
+Kappa statistic                          0.216 
+Mean absolute error                      0.3173
+Root mean squared error                  0.5633
+Relative absolute error                 83.2313 %
+Root relative squared error            129.0524 %
+Total Number of Instances             1000     
+
+
+=== Confusion Matrix ===
+
+   a   b   c   <-- classified as
+  13 102 113 |   a = neutral
+   6 370 208 |   b = negative
+   4  43 141 |   c = positive
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.057    0.013    0.565      0.057    0.104      0.123    0.522     0.247     neutral
+                 0.634    0.349    0.718      0.634    0.673      0.281    0.643     0.669     negative
+                 0.750    0.395    0.305      0.750    0.434      0.278    0.677     0.276     positive
+Weighted Avg.    0.524    0.281    0.606      0.524    0.498      0.245    0.622     0.499     
+
+
+Accuracy of Lex: 52.40%
+---------------------------------
+
+CorrectCount : 524 IncorrectCount :476
+Error-Rate: 47.599999999999994%
+
+Start Time : Thu Dec 01 19:52:50 GMT 2016
+
+Duration: 0.0 mins
+
+End Time : Thu Dec 01 19:52:53 GMT 2016
+
+fromDBLexFirst: F-Measure: 49.84108160847197%
+
+1000 Random Tweets 66% Split with only Lexicon Classifer 
+
+Pct-Correct: 52.2%
+
+Pct-Incorrect: 47.8%
+
+Recall: 52.2%
+
+Precision: 60.126323887603604%
+
+F-Measure: 49.81273867907701%
+
+
+Correctly Classified Instances         522               52.2    %
+Incorrectly Classified Instances       478               47.8    %
+Kappa statistic                          0.2108
+Mean absolute error                      0.3187
+Root mean squared error                  0.5645
+Relative absolute error                 84.0372 %
+Root relative squared error            129.6769 %
+Total Number of Instances             1000     
+
+
+=== Confusion Matrix ===
+
+   a   b   c   <-- classified as
+  13 102 112 |   a = neutral
+   6 372 210 |   b = negative
+   5  43 137 |   c = positive
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.057    0.014    0.542      0.057    0.104      0.118    0.522     0.245     neutral
+                 0.633    0.352    0.720      0.633    0.673      0.276    0.640     0.671     negative
+                 0.741    0.395    0.298      0.741    0.425      0.269    0.673     0.269     positive
+Weighted Avg.    0.522    0.283    0.601      0.522    0.498      0.239    0.619     0.500     
+
+
+Accuracy of Lex: 52.20%
+---------------------------------
+
+CorrectCount : 522 IncorrectCount :478
+Error-Rate: 47.8%
+
+Start Time : Thu Dec 01 20:31:31 GMT 2016
+
+Duration: 0.0 mins
+
+End Time : Thu Dec 01 20:31:35 GMT 2016
+
+fromDBLexFirst: F-Measure: 49.81273867907701%
+
+
+fromDBLexFirst: F-Measure: 44.96569048234743%
+
+fromDBLexFirst: F-Measure: 49.84108160847197%
+
+fromDBLexFirst: F-Measure: 49.81273867907701%

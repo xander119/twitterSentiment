@@ -1,0 +1,106 @@
+@relation Tweets
+
+@attribute text string
+@attribute labelled_sentiment {positive,neutral,negative}
+
+@data
+"new ceo seeks the right balance to please passengers and wall   greenfield daily reporter ",neutral
+"is really getting on my nerves   rage  rage  nothappy ",negative
+"yes we waited in line for almost an hour to do so some passengers just left not wanting to wait past am ",negative
+"the we got into the gate at iah on time and have given our seats and closed the flight if you know people is arriving have to wait ",negative
+"its cool that my bags take a bit longer dont give me baggage blue ballsturn the carousel on tell me its coming then not ",negative
+"and dont hope for me having a nicer flight some other time try to do things right you sold me those tickets with that connetion ",negative
+"i like delays less than you because im the one on the plane connect me with a voucher ",negative
+"link to current status of flightsairports fly bwiewrmco this morning yet cant yet tell what any problems are except see snow ",negative
+"i tried  dm it would not go thru not sure why ",negative
+"you guys there are we on hour  of our phone hold at am bc of volume or short staffing ",negative
+"wanted to get my bag benefit but instead get  pricing on all three tickets when adding a card mp visa is only option ",negative
+"please see a flight attendant for what why isnt there enough room for over head bags i carry on to save time ",negative
+"still waiting for a reply ",negative
+"even though technically after i land i will be silver ",neutral
+"hows us  looking today ",neutral
+"nice work on the update ",positive
+"i have items of sentimental value that im heartbroken are missing ",negative
+"we have been stuck in sju for several hours and no one is answering here really tough to luv sw no response is bad ",negative
+"ceo weighs profits flyers  registration ",neutral
+"how r u supposed to change flights when u cant get thru to reservations onehouronhold ",negative
+"thanks her flight leaves at  but shes arriving to the airport early wedding is in vt in sept grateful you fly to btv  ",positive
+"is officially the worst most delayed and least helpful airline i have ever had the misfortune of flying on ",negative
+"wont answer their phones horribleservice neveragain frustrated answerthephone ",negative
+"reservations had me on hold for  hours only to hang upsmh  confused  ",negative
+"no worries delay was minor and dealt with nicely it was captain of flight  by the way ",positive
+"clicked on the link and got this confused ",neutral
+"is it a temporary site glitch or are you no longer offering flights from grr to geg after feb cant find any online  ",neutral
+"flight was cancelled flightled and it wont let me rebook online wait time on phone is too long please help ",negative
+"guys weve got to do something about the inability to check in online for international flight that has  ",neutral
+"really caring ",neutral
+"allows other passengers  harass u after their gate agents mistakefurious they are doing nothing about it  my yo was scared ",negative
+"this is really unhelpful why cant i rebook online ",negative
+"sitting on the plane in jfk waiting to take off doors are open catering is stocking up we are delayed but they couldnt be nicer ",negative
+"a flight delay due to pilots oversleeping is apparently an uncontrollable irregularity that is not eligible for delay compensation ",negative
+"we have no choice but to pay another  to go to the airport in the hopes that we will be treated better by a rep ",negative
+"new apple crpe amazing live from ua really nice crew too americanair has biscuits ua needs them  ",positive
+"on hold for  hours and then you hung up  cancelled flightled flights running out of daycare for our kids who are trapped at home ",negative
+"call my work and tell them its your fault im late flight ",negative
+"why have you guys jacked up the prices after you said prices were going to be lowered smh ",negative
+"i have been on hold with your gold reservations line for over  hours now flight cancelled flightled trying to rebook ",negative
+"how much does it cost to check in an additional bag traveling from newark to glasgow thank you  ",neutral
+"thanks do yall expect to be operational tomorrow out of nashville ",positive
+"we are on the pm flight fll to phl and then connection to man however with the delays we might miss it can we go earlier ",negative
+"last night we waited forever at the gate because someone from corporate dispatch forgot to call the crew unfriendlyskies ",negative
+"broken entertainment system on my  hour nyc flight terrible cabin crew service and online complaint form wont work hopeless ",negative
+"husband on hold  hrs got disconnectednew wait  min cant confirm res due to the fact he booked on line nuts ",negative
+" ridiculous to fly outdated s anywhere much less btwn iah and sfo no power ports no wifi no personal entertainment torture ",negative
+"been on hold for  minutes about my cancelled flightled flight still not talked to anyone and flight is soon what gives ",negative
+"hoping you answer the phone today ",negative
+"the last  times ive arrived our gate has been blocked by a slow to depart plane leading to  min delays ",negative
+"what if business as usual meant dropping the bully mentality and fostering inspiration for a greater business employeerelations ",negative
+" kind of early but any idea when dates through the first week of sept will come available ",neutral
+"i hear that the new thing in your planes are the flyfi how i can check if the flight that im going to take have it ",neutral
+"your service has been awful in boston and i had to pay  extra dollars than i was supposed too i am very dissatisfied mad ",negative
+"im showing flight  delayed again would my boarding pass still be good or was my seat given away ",negative
+"cant update my flight online bc its been cancelled flighted twice already going on hour  on hold ",negative
+"guys for real ive been on hold for  hours including one hangup please have someone reach out so i can get my  back ",negative
+"great job today in ruining  peoples vacation thanks to your incompetent pilot and staff we have all now missed our flights ",negative
+"tried to rebook online but it says that i have to pay  for difference in price please help ",negative
+"please provide me your direct email for me to explain ",negative
+"cancelled flightled my flight out of bna today been on hold for an hour  angry  frustrated ",negative
+"beautiful thanks a ton ",positive
+"i need updates on my flights    i have been on hold for over  hours ",negative
+"himy flight bna to lga was cancelled flighted this morning looks like other flights out of bna are taking off any chance ",negative
+"can you link the article where it says the routes and what times the routes are likely to be like tuldal pm   none ",neutral
+"mobile boarding passes now available in ios passbook ",neutral
+"almost  hours and coin now understand higher call volume but this is unacceptable ",negative
+" its been cancelled flighted your sm response is slow ",negative
+"ive had my flight cancelled flightled twice now and after  minutes of automated questions the phone just goes to a busy signal help ",negative
+"tried online and told i must call bc of modifications to my reservation been on hold for almost  hours ",negative
+"  outstanding customer service thank you ",positive
+"finally ",positive
+"trying to get through to cust relations is there another  to use ",neutral
+"where should i fly by may rd plz advise ",neutral
+"has the worst customer service of any airline ive ever flown ",negative
+"you know what the united club needs power moar power insufficient outlets for the roadwarrior ord ",negative
+"thrilled to have my carryon checked against my will by two nasty gate agents only to see an entire empty bin when i boarded last ",negative
+"almost  hours on hold  hours of my life i cant get back thanks ",negative
+"discount for three delays ",negative
+"to offer service from daytona beach to new york  albany business review ",positive
+"cant even get on hold to wait to speak to someoneawesome ",negative
+"didnt get her name she was not in our group she was sitting behind us think it was window seat  we only overheard ",negative
+"thank you ",positive
+"too bad im getting this memo your reservation contains modifications that prevent you from changing it online fusturated ",negative
+"is todays jetblue flight  nycbos delayed my app says on time and the website says its not ",negative
+"thanks for the reply hoping everything is cleared up in charlotte by monday ",positive
+"it takes a month ",negative
+"yes i a report in atlanta my bags are in charlotte nc  hours late flightr and still cant find my luggage  ",negative
+"it was supposed to be a carry on and in pittsburgh coming to boston it was a carry on ",negative
+"you need to contact me asap furious ",neutral
+"book out of town with fares from way restr ",neutral
+"nothing apparently ive flown w you  times in last  weeks and  of those experiences incl today were clusterfucks ",negative
+"whats the link for flyfi ",neutral
+"how soon is possible i boarded the plane the st time at  am and it is now after  am and im still where i started ",negative
+"your chairmans phone is down what other number can i use ",negative
+"you make spirit look like the gem of air travel you havent handle this winter storm very well ",negative
+"flying lax to sfo and after looking at the awesome movie lineup i actually wish i was on a long haul ",positive
+"bad coffee but the juice is ok getphilz united terminal sfo airport ",negative
+"why am i mot getting my refund ",negative
+"do you think the flights out of nashville will be cancelled flighted tomorrow ",neutral

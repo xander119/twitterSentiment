@@ -1,0 +1,110 @@
+Results produced from with Lexicon Ensemble classifier.
+600 Tweets cross valid processed with Lexicon Classifier tweet_set_two_processed1 
+
+correct
+incorrect
+Recall: 57.89323401613904%
+
+Precision: 96.9622381798802%
+
+F-Measure: 71.1190769419423%
+
+summaryString
+matrixString
+classDetailsString
+null
+predictCount
+Start Time : Sat Dec 31 13:21:26 GMT 2016
+
+Duration: 6.0 mins
+
+End Time : Sat Dec 31 13:28:25 GMT 2016
+
+Results produced from with Lexicon Ensemble classifier.
+600 Tweets cross valid processed with Lexicon Classifier tweet_set_two_processed2airportcode_expanded 
+
+correct
+incorrect
+Recall: 56.392302917442585%
+
+Precision: 97.6752746762238%
+
+F-Measure: 70.26047965212807%
+
+summaryString
+matrixString
+classDetailsString
+null
+predictCount
+Start Time : Sat Dec 31 13:28:28 GMT 2016
+
+Duration: 6.0 mins
+
+End Time : Sat Dec 31 13:35:16 GMT 2016
+
+Results produced from with Lexicon Ensemble classifier.
+600 Tweets cross valid processed with Lexicon Classifier tweet_set_two_processed2slang_expanded 
+
+correct
+incorrect
+Recall: 52.986964618249544%
+
+Precision: 97.41502963693236%
+
+F-Measure: 67.23665004853177%
+
+summaryString
+matrixString
+classDetailsString
+null
+predictCount
+Start Time : Sat Dec 31 13:35:19 GMT 2016
+
+Duration: 6.0 mins
+
+End Time : Sat Dec 31 13:42:18 GMT 2016
+
+Results produced from with Lexicon Ensemble classifier.
+600 Tweets cross valid processed with Lexicon Classifier tweet_set_two_processed2hashtags_expanded 
+
+correct
+incorrect
+Recall: 54.380509000620734%
+
+Precision: 97.46505341217568%
+
+F-Measure: 68.6905806778467%
+
+summaryString
+matrixString
+classDetailsString
+null
+predictCount
+Start Time : Sat Dec 31 13:42:21 GMT 2016
+
+Duration: 6.0 mins
+
+End Time : Sat Dec 31 13:49:19 GMT 2016
+
+Results produced from with Lexicon Ensemble classifier.
+600 Tweets cross valid processed with Lexicon Classifier tweet_set_two_processed2emojis_expanded 
+
+correct
+incorrect
+Recall: 61.30105524518933%
+
+Precision: 98.30159768707254%
+
+F-Measure: 74.55970083863309%
+
+summaryString
+matrixString
+classDetailsString
+null
+predictCount
+Start Time : Sat Dec 31 13:49:22 GMT 2016
+
+Duration: 6.0 mins
+
+End Time : Sat Dec 31 13:55:55 GMT 2016
+

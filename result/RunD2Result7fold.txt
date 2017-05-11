@@ -1,0 +1,313 @@
+Results produced from with Original Ensemble classifier.
+600 order by confidence with Ensemble Classifiers tweet_set_two_processed1 BASELINE RESULT 
+
+Pct-Correct: 71.0%
+
+Pct-Incorrect: 29.0%
+
+Recall: 71.0%
+
+Precision: 72.97127611298771%
+
+F-Measure: 71.10415641561457%
+
+
+Correctly Classified Instances        1278               71      %
+Incorrectly Classified Instances       522               29      %
+Kappa statistic                          0.565 
+Mean absolute error                      0.3028
+Root mean squared error                  0.3797
+Relative absolute error                 68.1201 %
+Root relative squared error             80.5381 %
+Total Number of Instances             1800     
+
+
+=== Confusion Matrix ===
+
+   a   b   c   <-- classified as
+ 414  45 141 |   a = negative
+  55 380 165 |   b = positive
+  75  41 484 |   c = neutral
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.690    0.108    0.761      0.690    0.724      0.597    0.861     0.781     negative
+                 0.633    0.072    0.815      0.633    0.713      0.604    0.857     0.790     positive
+                 0.807    0.255    0.613      0.807    0.696      0.524    0.832     0.665     neutral
+Weighted Avg.    0.710    0.145    0.730      0.710    0.711      0.575    0.850     0.746     
+
+
+Accuracy of Vote: 71.00%
+---------------------------------
+
+Start Time : Sat Dec 31 21:12:34 GMT 2016
+
+Duration: 5.0 mins
+
+End Time : Sat Dec 31 21:17:53 GMT 2016
+
+Results produced from with Original Ensemble classifier.
+600 Random Tweets 66% Split processed with Ensemble Classifiers tweet_set_two_processed2airportcode_expanded 
+
+Pct-Correct: 68.94444444444444%
+
+Pct-Incorrect: 31.055555555555557%
+
+Recall: 68.94444444444444%
+
+Precision: 70.61823962818808%
+
+F-Measure: 69.07617247277162%
+
+
+Correctly Classified Instances        1241               68.9444 %
+Incorrectly Classified Instances       559               31.0556 %
+Kappa statistic                          0.5342
+Mean absolute error                      0.3065
+Root mean squared error                  0.3838
+Relative absolute error                 68.9608 %
+Root relative squared error             81.4067 %
+Total Number of Instances             1800     
+
+
+=== Confusion Matrix ===
+
+   a   b   c   <-- classified as
+ 396  58 146 |   a = negative
+  55 382 163 |   b = positive
+  98  39 463 |   c = neutral
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.660    0.128    0.721      0.660    0.689      0.545    0.852     0.760     negative
+                 0.637    0.081    0.797      0.637    0.708      0.593    0.856     0.799     positive
+                 0.772    0.258    0.600      0.772    0.675      0.490    0.820     0.657     neutral
+Weighted Avg.    0.689    0.155    0.706      0.689    0.691      0.543    0.843     0.739     
+
+
+Accuracy of Vote: 68.94%
+---------------------------------
+
+Start Time : Sat Dec 31 21:17:56 GMT 2016
+
+Duration: 5.0 mins
+
+End Time : Sat Dec 31 21:23:02 GMT 2016
+
+Results produced from with Original Ensemble classifier.
+600 Random Tweets 66% Split processed with Ensemble Classifiers tweet_set_two_processed2slang_expanded 
+
+Pct-Correct: 68.44444444444444%
+
+Pct-Incorrect: 31.555555555555557%
+
+Recall: 68.44444444444444%
+
+Precision: 70.58721129671757%
+
+F-Measure: 68.57017906837946%
+
+
+Correctly Classified Instances        1232               68.4444 %
+Incorrectly Classified Instances       568               31.5556 %
+Kappa statistic                          0.5267
+Mean absolute error                      0.3118
+Root mean squared error                  0.3897
+Relative absolute error                 70.1493 %
+Root relative squared error             82.6636 %
+Total Number of Instances             1800     
+
+
+=== Confusion Matrix ===
+
+   a   b   c   <-- classified as
+ 384  56 160 |   a = negative
+  50 375 175 |   b = positive
+  83  44 473 |   c = neutral
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.640    0.111    0.743      0.640    0.688      0.551    0.843     0.757     negative
+                 0.625    0.083    0.789      0.625    0.698      0.579    0.840     0.768     positive
+                 0.788    0.279    0.585      0.788    0.672      0.483    0.812     0.644     neutral
+Weighted Avg.    0.684    0.158    0.706      0.684    0.686      0.538    0.832     0.723     
+
+
+Accuracy of Vote: 68.44%
+---------------------------------
+
+Start Time : Sat Dec 31 21:23:05 GMT 2016
+
+Duration: 5.0 mins
+
+End Time : Sat Dec 31 21:28:39 GMT 2016
+
+Results produced from with Original Ensemble classifier.
+600 Random Tweets 66% Split processed with Ensemble Classifiers tweet_set_two_processed2hashtags_expanded 
+
+Pct-Correct: 68.66666666666667%
+
+Pct-Incorrect: 31.333333333333332%
+
+Recall: 68.66666666666667%
+
+Precision: 70.51030980436342%
+
+F-Measure: 68.77195475459614%
+
+
+Correctly Classified Instances        1236               68.6667 %
+Incorrectly Classified Instances       564               31.3333 %
+Kappa statistic                          0.53  
+Mean absolute error                      0.3088
+Root mean squared error                  0.3871
+Relative absolute error                 69.475  %
+Root relative squared error             82.1249 %
+Total Number of Instances             1800     
+
+
+=== Confusion Matrix ===
+
+   a   b   c   <-- classified as
+ 388  62 150 |   a = negative
+  50 378 172 |   b = positive
+  88  42 470 |   c = neutral
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.647    0.115    0.738      0.647    0.689      0.551    0.845     0.762     negative
+                 0.630    0.087    0.784      0.630    0.699      0.578    0.851     0.770     positive
+                 0.783    0.268    0.593      0.783    0.675      0.489    0.816     0.649     neutral
+Weighted Avg.    0.687    0.157    0.705      0.687    0.688      0.540    0.837     0.727     
+
+
+Accuracy of Vote: 68.67%
+---------------------------------
+
+Start Time : Sat Dec 31 21:28:39 GMT 2016
+
+Duration: 5.0 mins
+
+End Time : Sat Dec 31 21:34:19 GMT 2016
+
+Results produced from with Original Ensemble classifier.
+600 Random Tweets 66% Split processed with Ensemble Classifiers tweet_set_two_processed2emojis_expanded 
+
+Pct-Correct: 71.5%
+
+Pct-Incorrect: 28.5%
+
+Recall: 71.5%
+
+Precision: 74.05089086752264%
+
+F-Measure: 71.63064107532682%
+
+
+Correctly Classified Instances        1287               71.5    %
+Incorrectly Classified Instances       513               28.5    %
+Kappa statistic                          0.5725
+Mean absolute error                      0.2819
+Root mean squared error                  0.3675
+Relative absolute error                 63.4216 %
+Root relative squared error             77.965  %
+Total Number of Instances             1800     
+
+
+=== Confusion Matrix ===
+
+   a   b   c   <-- classified as
+ 397  49 154 |   a = negative
+  40 389 171 |   b = positive
+  65  34 501 |   c = neutral
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.662    0.088    0.791      0.662    0.721      0.604    0.878     0.811     negative
+                 0.648    0.069    0.824      0.648    0.726      0.621    0.876     0.821     positive
+                 0.835    0.271    0.607      0.835    0.703      0.534    0.851     0.715     neutral
+Weighted Avg.    0.715    0.143    0.741      0.715    0.716      0.586    0.868     0.783     
+
+
+Accuracy of Vote: 71.50%
+---------------------------------
+
+Start Time : Sat Dec 31 21:34:19 GMT 2016
+
+Duration: 4.0 mins
+
+End Time : Sat Dec 31 21:39:15 GMT 2016
+
+Results produced from with Original Ensemble classifier.
+600 Random Tweets 66% Split processed with Ensemble Classifiers tweet_set_two_processed3_expanded 
+
+Pct-Correct: 73.61111111111111%
+
+Pct-Incorrect: 26.38888888888889%
+
+Recall: 73.61111111111111%
+
+Precision: 74.7172266542699%
+
+F-Measure: 73.71441941615899%
+
+
+Correctly Classified Instances        1325               73.6111 %
+Incorrectly Classified Instances       475               26.3889 %
+Kappa statistic                          0.6042
+Mean absolute error                      0.2866
+Root mean squared error                  0.3655
+Relative absolute error                 64.4777 %
+Root relative squared error             77.5387 %
+Total Number of Instances             1800     
+
+
+=== Confusion Matrix ===
+
+   a   b   c   <-- classified as
+ 426  49 125 |   a = negative
+  51 418 131 |   b = positive
+  70  49 481 |   c = neutral
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.710    0.101    0.779      0.710    0.743      0.624    0.873     0.802     negative
+                 0.697    0.082    0.810      0.697    0.749      0.641    0.888     0.828     positive
+                 0.802    0.213    0.653      0.802    0.720      0.564    0.858     0.716     neutral
+Weighted Avg.    0.736    0.132    0.747      0.736    0.737      0.610    0.873     0.782     
+
+
+Accuracy of Vote: 73.61%
+---------------------------------
+
+Start Time : Sat Dec 31 21:39:15 GMT 2016
+
+Duration: 4.0 mins
+
+End Time : Sat Dec 31 21:43:51 GMT 2016
+
+Results produced from with ensemble classifier.AVERAGE_RULE
+Preprocessed Baseline: 600 No.tweets: F-Measure: 71.10415641561457%
+
+Preprocessed with processed2 airportcode expanded Baseline, NoTweet : 600 F-measure: F-Measure: 69.07617247277162%
+
+Preprocessed with processed2 airportCodeSlang expanded Baseline, NoTweet : 600 F-measure: F-Measure: 68.57017906837946%
+
+Preprocessed with processed2 airportCodeSlangHashtags expanded Baseline, NoTweet : 600 F-measure: F-Measure: 68.77195475459614%
+
+Preprocessed with processed2 airportCodeSlangHashtagsEmoji expanded Baseline, NoTweet : 600 F-measure: F-Measure: 71.63064107532682%
+
+Preprocessed with processed3 removed features Baseline, NoTweet : 600 F-measure: F-Measure: 73.71441941615899%
+

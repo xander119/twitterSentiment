@@ -1,0 +1,53 @@
+Results produced from with Lexicon Ensemble classifier.
+600 Tweets cross valid processed with Lexicon Classifier tweet_set_two_processed2emojis_only_expanded 
+
+Avg Accuracy: 61.29826194909994%
+
+correct
+incorrect
+Avg Recall: 61.29826194909994%
+
+Avg Precision: 97.79970120974116%
+
+Avg F-Measure: 74.34178250236357%
+
+summaryString
+toMatrixString
+classDetailsString
+predictCount
+Start Time : Sun Jan 01 14:20:55 GMT 2017
+
+Duration: 6.0 mins
+
+End Time : Sun Jan 01 14:27:04 GMT 2017
+
+Results produced from with Lexicon Ensemble classifier.
+600 Tweets cross valid processed with Lexicon Classifier tweet_set_two_processed3_expanded 
+
+Avg Accuracy: 63.08472998137804%
+
+correct
+incorrect
+Avg Recall: 63.08472998137803%
+
+Avg Precision: 97.94376833212614%
+
+Avg F-Measure: 76.02765089908085%
+
+summaryString
+toMatrixString
+classDetailsString
+predictCount
+Start Time : Mon Jan 02 00:32:40 GMT 2017
+
+Duration: 6.0 mins
+
+End Time : Mon Jan 02 00:38:54 GMT 2017
+
+Results produced from with Lexicon ensemble classifier.AVERAGE_RULE
+Preprocessed with processed3 removed features Baseline, NoTweet : 600 F-measure: Avg F-Measure: 76.02765089908085%
+
+End Time : Mon Jan 02 00:38:57 GMT 2017
+
+Duration: 6.0 mins
+

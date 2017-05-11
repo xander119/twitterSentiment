@@ -1,0 +1,136 @@
+****************************200 each class 
+Pct-Correct: 66.83333333333333%
+Pct-Incorrect: 33.166666666666664%
+Recall: 94.9438202247191%
+Precision: 67.53246753246754%
+F-Measure: 78.92586106246351%
+
+Correctly Classified Instances         802               66.8333 %
+Incorrectly Classified Instances       398               33.1667 %
+Kappa statistic                          0.2958
+Mean absolute error                      0.2211
+Root mean squared error                  0.4702
+Relative absolute error                 58.6914 %
+Root relative squared error            108.3698 %
+Total Number of Instances             1200     
+
+=== Confusion Matrix ===
+
+   a   b   c   <-- classified as
+  70 176  16 |   a = neutral
+  24 676  12 |   b = negative
+  21 149  56 |   c = positive
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.267    0.048    0.609      0.267    0.371      0.308    0.610     0.323     neutral
+                 0.949    0.666    0.675      0.949    0.789      0.374    0.642     0.671     negative
+                 0.248    0.029    0.667      0.248    0.361      0.336    0.610     0.307     positive
+Weighted Avg.    0.668    0.411    0.659      0.668    0.617      0.353    0.629     0.526     
+
+Accuracy of Vote: 66.83%
+---------------------------------
+Start Time : Wed Nov 23 18:41:51 GMT 2016
+Duration: 5 mins
+End Time : Wed Nov 23 18:46:54 GMT 2016
+Run **********************************200 each class 
+
+Pct-Correct: 64.58333333333333%
+
+Pct-Incorrect: 35.416666666666664%
+
+Recall: 92.83276450511946%
+
+Precision: 66.99507389162561%
+
+F-Measure: 77.82546494992847%
+
+
+Correctly Classified Instances         310               64.5833 %
+Incorrectly Classified Instances       170               35.4167 %
+Kappa statistic                          0.2197
+Mean absolute error                      0.2361
+Root mean squared error                  0.4859
+Relative absolute error                 62.7732 %
+Root relative squared error            112.9271 %
+Total Number of Instances              480     
+
+
+=== Confusion Matrix ===
+
+   a   b   c   <-- classified as
+  24  60   6 |   a = neutral
+  12 272   9 |   b = negative
+   9  74  14 |   c = positive
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.267    0.054    0.533      0.267    0.356      0.285    0.606     0.280     neutral
+                 0.928    0.717    0.670      0.928    0.778      0.286    0.606     0.666     negative
+                 0.144    0.039    0.483      0.144    0.222      0.177    0.553     0.243     positive
+Weighted Avg.    0.646    0.455    0.607      0.646    0.587      0.264    0.595     0.508     
+
+
+Accuracy of Vote: 64.58%
+---------------------------------
+
+Start Time : Wed Nov 23 19:16:28 GMT 2016
+
+Duration: 0 mins
+
+End Time : Wed Nov 23 19:17:05 GMT 2016
+
+
+
+Run **********************************200 each class 
+
+Pct-Correct: 62.94117647058823%
+
+Pct-Incorrect: 37.05882352941177%
+
+Recall: 91.23711340206185%
+
+Precision: 65.79925650557621%
+
+F-Measure: 76.45788336933045%
+
+
+Correctly Classified Instances         428               62.9412 %
+Incorrectly Classified Instances       252               37.0588 %
+Kappa statistic                          0.2658
+Mean absolute error                      0.2471
+Root mean squared error                  0.4971
+Relative absolute error                 64.4597 %
+Root relative squared error            112.8113 %
+Total Number of Instances              680     
+
+
+=== Confusion Matrix ===
+
+   a   b   c   <-- classified as
+  24 111  22 |   a = neutral
+  14 354  20 |   b = negative
+  12  73  50 |   c = positive
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.153    0.050    0.480      0.153    0.232      0.167    0.552     0.269     neutral
+                 0.912    0.630    0.658      0.912    0.765      0.344    0.641     0.650     negative
+                 0.370    0.077    0.543      0.370    0.441      0.342    0.647     0.326     positive
+Weighted Avg.    0.629    0.386    0.594      0.629    0.577      0.302    0.622     0.498     
+
+
+Accuracy of Vote: 62.94%
+---------------------------------
+
+Start Time : Wed Nov 23 22:40:41 GMT 2016
+
+Duration: 1.0 mins
+
+End Time : Wed Nov 23 22:41:47 GMT 2016
+

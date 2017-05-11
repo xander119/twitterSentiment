@@ -1,0 +1,157 @@
+Results produced from with Lexicon Ensemble classifier.
+1500 Random Tweets 66% Split processed with Lexicon Classifier tweet_set_two_processed1_expanded 
+
+Pct-Correct: 60.78431372549019%
+
+Pct-Incorrect: 39.21568627450981%
+
+Recall: 60.78431372549019%
+
+Precision: 48.31270816784425%
+
+F-Measure: 50.69429311797283%
+
+
+Correctly Classified Instances         310               60.7843 %
+Incorrectly Classified Instances       200               39.2157 %
+Kappa statistic                          0.0433
+Mean absolute error                      0.2614
+Root mean squared error                  0.5113
+Relative absolute error                 70.3612 %
+Root relative squared error            120.2308 %
+Total Number of Instances              510     
+
+
+=== Confusion Matrix ===
+
+   a   b   c   <-- classified as
+  10  81   3 |   a = neutral
+  18 299   2 |   b = negative
+   7  89   1 |   c = positive
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.106    0.060    0.286      0.106    0.155      0.071    0.523     0.195     neutral
+                 0.937    0.890    0.638      0.937    0.759      0.084    0.524     0.637     negative
+                 0.010    0.012    0.167      0.010    0.019      -0.007   0.499     0.190     positive
+Weighted Avg.    0.608    0.570    0.483      0.608    0.507      0.064    0.519     0.470     
+
+
+Accuracy of : 60.78%
+---------------------------------
+
+Start Time : Wed Nov 30 23:47:55 GMT 2016
+
+Duration: 0.0 mins
+
+End Time : Wed Nov 30 23:48:28 GMT 2016
+
+Results produced from with Lexicon Ensemble classifier.
+1500 Random Tweets 66% Split processed with Lexicon Classifier tweet_set_two_processed2_expanded 
+
+Pct-Correct: 62.35294117647059%
+
+Pct-Incorrect: 37.64705882352941%
+
+Recall: 62.35294117647059%
+
+Precision: 58.58039475306839%
+
+F-Measure: 55.70029053240514%
+
+
+Correctly Classified Instances         318               62.3529 %
+Incorrectly Classified Instances       192               37.6471 %
+Kappa statistic                          0.1377
+Mean absolute error                      0.251 
+Root mean squared error                  0.501 
+Relative absolute error                 67.5467 %
+Root relative squared error            117.8016 %
+Total Number of Instances              510     
+
+
+=== Confusion Matrix ===
+
+   a   b   c   <-- classified as
+  14  77   3 |   a = neutral
+  23 292   4 |   b = negative
+  16  69  12 |   c = positive
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.149    0.094    0.264      0.149    0.190      0.070    0.528     0.196     neutral
+                 0.915    0.764    0.667      0.915    0.771      0.210    0.575     0.663     negative
+                 0.124    0.017    0.632      0.124    0.207      0.221    0.553     0.245     positive
+Weighted Avg.    0.624    0.499    0.586      0.624    0.557      0.186    0.562     0.498     
+
+
+Accuracy of : 62.35%
+---------------------------------
+
+Start Time : Wed Nov 30 23:48:31 GMT 2016
+
+Duration: 0.0 mins
+
+End Time : Wed Nov 30 23:48:59 GMT 2016
+
+Results produced from with Lexicon Ensemble classifier.
+1500 Random Tweets 66% Split processed with Lexicon Classifier tweet_set_two_processed3_expanded 
+
+Pct-Correct: 62.94117647058823%
+
+Pct-Incorrect: 37.05882352941177%
+
+Recall: 62.94117647058823%
+
+Precision: 60.45565416108679%
+
+F-Measure: 56.60174000845668%
+
+
+Correctly Classified Instances         321               62.9412 %
+Incorrectly Classified Instances       189               37.0588 %
+Kappa statistic                          0.1604
+Mean absolute error                      0.2471
+Root mean squared error                  0.4971
+Relative absolute error                 66.5231 %
+Root relative squared error            116.5986 %
+Total Number of Instances              510     
+
+
+=== Confusion Matrix ===
+
+   a   b   c   <-- classified as
+  16  77   2 |   a = neutral
+  22 291   4 |   b = negative
+  16  68  14 |   c = positive
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.168    0.092    0.296      0.168    0.215      0.097    0.538     0.205     neutral
+                 0.918    0.751    0.667      0.918    0.773      0.230    0.583     0.664     negative
+                 0.143    0.015    0.700      0.143    0.237      0.260    0.564     0.265     positive
+Weighted Avg.    0.629    0.487    0.605      0.629    0.566      0.211    0.571     0.502     
+
+
+Accuracy of : 62.94%
+---------------------------------
+
+Start Time : Wed Nov 30 23:49:02 GMT 2016
+
+Duration: 0.0 mins
+
+End Time : Wed Nov 30 23:49:32 GMT 2016
+
+Results produced from with Lexicon ensemble classifier.
+Preprocessed: 1500 No.tweets: F-Measure: 50.69429311797283%
+
+Preprocessed with replaced Emojis 1500 No.tweets: F-Measure: 55.70029053240514%
+
+Preprocessed with removed Emojis 1500 No.tweets: F-Measure: 56.60174000845668%
+

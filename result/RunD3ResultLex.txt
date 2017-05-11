@@ -1,0 +1,151 @@
+Results produced from with Lexicon Ensemble classifier.
+600 Tweets cross valid processed with Lexicon Classifier tweet_set_two_processed1 
+
+Avg Accuracy: 57.89323401613905%
+
+correct
+incorrect
+Avg Recall: 57.89323401613904%
+
+Avg Precision: 96.9622381798802%
+
+Avg F-Measure: 71.1190769419423%
+
+summaryString
+toMatrixString
+classDetailsString
+predictCount
+Start Time : Sat Dec 31 16:53:33 GMT 2016
+
+Duration: 8.0 mins
+
+End Time : Sat Dec 31 17:02:07 GMT 2016
+
+Results produced from with Lexicon Ensemble classifier.
+600 Tweets cross valid processed with Lexicon Classifier tweet_set_two_processed2airportcode_expanded 
+
+Avg Accuracy: 56.39230291744259%
+
+correct
+incorrect
+Avg Recall: 56.392302917442585%
+
+Avg Precision: 97.6752746762238%
+
+Avg F-Measure: 70.26047965212807%
+
+summaryString
+toMatrixString
+classDetailsString
+predictCount
+Start Time : Sat Dec 31 17:02:10 GMT 2016
+
+Duration: 7.0 mins
+
+End Time : Sat Dec 31 17:09:45 GMT 2016
+
+Results produced from with Lexicon Ensemble classifier.
+600 Tweets cross valid processed with Lexicon Classifier tweet_set_two_processed2slang_expanded 
+
+Avg Accuracy: 52.98696461824953%
+
+correct
+incorrect
+Avg Recall: 52.986964618249544%
+
+Avg Precision: 97.41502963693236%
+
+Avg F-Measure: 67.23665004853177%
+
+summaryString
+toMatrixString
+classDetailsString
+predictCount
+Start Time : Sat Dec 31 17:09:48 GMT 2016
+
+Duration: 7.0 mins
+
+End Time : Sat Dec 31 17:16:54 GMT 2016
+
+Results produced from with Lexicon Ensemble classifier.
+600 Tweets cross valid processed with Lexicon Classifier tweet_set_two_processed2hashtags_expanded 
+
+Avg Accuracy: 54.38050900062073%
+
+correct
+incorrect
+Avg Recall: 54.380509000620734%
+
+Avg Precision: 97.46505341217568%
+
+Avg F-Measure: 68.6905806778467%
+
+summaryString
+toMatrixString
+classDetailsString
+predictCount
+Start Time : Sat Dec 31 17:16:57 GMT 2016
+
+Duration: 7.0 mins
+
+End Time : Sat Dec 31 17:23:59 GMT 2016
+
+Results produced from with Lexicon Ensemble classifier.
+600 Tweets cross valid processed with Lexicon Classifier tweet_set_two_processed2emojis_expanded 
+
+Avg Accuracy: 61.30105524518932%
+
+correct
+incorrect
+Avg Recall: 61.30105524518933%
+
+Avg Precision: 98.30159768707254%
+
+Avg F-Measure: 74.55970083863309%
+
+summaryString
+toMatrixString
+classDetailsString
+predictCount
+Start Time : Sat Dec 31 17:24:02 GMT 2016
+
+Duration: 6.0 mins
+
+End Time : Sat Dec 31 17:30:20 GMT 2016
+
+Results produced from with Lexicon Ensemble classifier.
+600 Tweets cross valid processed with Lexicon Classifier tweet_set_two_processed3_expanded 
+
+Avg Accuracy: 63.08472998137804%
+
+correct
+incorrect
+Avg Recall: 63.08472998137803%
+
+Avg Precision: 97.94376833212614%
+
+Avg F-Measure: 76.02765089908085%
+
+summaryString
+toMatrixString
+classDetailsString
+predictCount
+Start Time : Sat Dec 31 17:30:23 GMT 2016
+
+Duration: 6.0 mins
+
+End Time : Sat Dec 31 17:36:43 GMT 2016
+
+Results produced from with Lexicon ensemble classifier.AVERAGE_RULE
+Preprocessed Baseline: 600 No.tweets: Avg F-Measure: 71.1190769419423%
+
+Preprocessed with processed2 airportcode expanded Baseline, NoTweet : 600 F-measure: Avg F-Measure: 70.26047965212807%
+
+Preprocessed with processed2 airportCodeSlang expanded Baseline, NoTweet : 600 F-measure: Avg F-Measure: 67.23665004853177%
+
+Preprocessed with processed2 airportCodeSlangHashtags expanded Baseline, NoTweet : 600 F-measure: Avg F-Measure: 68.6905806778467%
+
+Preprocessed with processed2 airportCodeSlangHashtagsEmoji expanded Baseline, NoTweet : 600 F-measure: Avg F-Measure: 74.55970083863309%
+
+Preprocessed with processed3 removed features Baseline, NoTweet : 600 F-measure: Avg F-Measure: 76.02765089908085%
+

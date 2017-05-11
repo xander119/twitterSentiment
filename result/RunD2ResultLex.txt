@@ -1,0 +1,234 @@
+Results produced from with Lexicon Ensemble classifier.
+600 Tweets cross valid processed with Lexicon Classifier tweet_set_two_processed1 
+
+correct
+incorrect
+Avg Recall: 57.89323401613904%
+
+Avg Precision: 96.9622381798802%
+
+Avg F-Measure: 71.1190769419423%
+
+summaryString
+matrixString
+classDetailsString
+Avg Accuracy: 5024.576772307044%
+
+predictCount
+Start Time : Sat Dec 31 14:52:30 GMT 2016
+
+Duration: 7.0 mins
+
+End Time : Sat Dec 31 14:59:51 GMT 2016
+
+Results produced from with Lexicon Ensemble classifier.
+600 Tweets cross valid processed with Lexicon Classifier tweet_set_two_processed2airportcode_expanded 
+
+correct
+incorrect
+Avg Recall: 56.392302917442585%
+
+Avg Precision: 97.6752746762238%
+
+Avg F-Measure: 70.26047965212807%
+
+summaryString
+matrixString
+classDetailsString
+Avg Accuracy: 4869.590514869283%
+
+predictCount
+Start Time : Sat Dec 31 14:59:54 GMT 2016
+
+Duration: 7.0 mins
+
+End Time : Sat Dec 31 15:07:05 GMT 2016
+----------------------------------------------------------------------------------
+Results produced from with Lexicon Ensemble classifier.
+600 Tweets cross valid processed with Lexicon Classifier tweet_set_two_processed1 
+
+correct
+incorrect
+Avg Recall: 57.89323401613904%
+
+Avg Precision: 96.9622381798802%
+
+Avg F-Measure: 71.1190769419423%
+
+summaryString
+=== Confusion Matrix ===
+
+   a   b   c   <-- classified as
+   0   0   0 |   a = negative
+   0   0   0 |   b = positive
+  30  22 128 |   c = neutral
+
+classDetailsString
+Avg Accuracy: 5789.323401613905%
+
+predictCount
+Start Time : Sat Dec 31 15:18:04 GMT 2016
+
+Duration: 6.0 mins
+
+End Time : Sat Dec 31 15:25:04 GMT 2016
+
+Results produced from with Lexicon Ensemble classifier.
+600 Tweets cross valid processed with Lexicon Classifier tweet_set_two_processed2airportcode_expanded 
+
+correct
+incorrect
+Avg Recall: 56.392302917442585%
+
+Avg Precision: 97.6752746762238%
+
+Avg F-Measure: 70.26047965212807%
+
+summaryString
+=== Confusion Matrix ===
+
+   a   b   c   <-- classified as
+   0   0   0 |   a = negative
+   0   0   0 |   b = positive
+  48  28 104 |   c = neutral
+
+classDetailsString
+Avg Accuracy: 5639.230291744259%
+
+predictCount
+Start Time : Sat Dec 31 15:25:07 GMT 2016
+
+Duration: 6.0 mins
+
+End Time : Sat Dec 31 15:32:04 GMT 2016
+
+Results produced from with Lexicon Ensemble classifier.
+600 Tweets cross valid processed with Lexicon Classifier tweet_set_two_processed2slang_expanded 
+
+correct
+incorrect
+Avg Recall: 52.986964618249544%
+
+Avg Precision: 97.41502963693236%
+
+Avg F-Measure: 67.23665004853177%
+
+summaryString
+=== Confusion Matrix ===
+
+  a  b  c   <-- classified as
+  0  0  0 |  a = negative
+  0  0  0 |  b = positive
+ 49 35 96 |  c = neutral
+
+classDetailsString
+Avg Accuracy: 5298.696461824953%
+
+predictCount
+Start Time : Sat Dec 31 15:32:07 GMT 2016
+
+Duration: 7.0 mins
+
+End Time : Sat Dec 31 15:39:38 GMT 2016
+
+Results produced from with Lexicon Ensemble classifier.
+600 Tweets cross valid processed with Lexicon Classifier tweet_set_two_processed2hashtags_expanded 
+
+correct
+incorrect
+Avg Recall: 54.380509000620734%
+
+Avg Precision: 97.46505341217568%
+
+Avg F-Measure: 68.6905806778467%
+
+summaryString
+=== Confusion Matrix ===
+
+   a   b   c   <-- classified as
+   0   0   0 |   a = negative
+   0   0   0 |   b = positive
+  43  31 106 |   c = neutral
+
+classDetailsString
+Avg Accuracy: 5438.050900062072%
+
+predictCount
+Start Time : Sat Dec 31 15:39:41 GMT 2016
+
+Duration: 7.0 mins
+
+End Time : Sat Dec 31 15:47:00 GMT 2016
+
+Results produced from with Lexicon Ensemble classifier.
+600 Tweets cross valid processed with Lexicon Classifier tweet_set_two_processed2emojis_expanded 
+
+correct
+incorrect
+Avg Recall: 61.30105524518933%
+
+Avg Precision: 98.30159768707254%
+
+Avg F-Measure: 74.55970083863309%
+
+summaryString
+=== Confusion Matrix ===
+
+   a   b   c   <-- classified as
+   0   0   0 |   a = negative
+   0   0   0 |   b = positive
+  40  12 128 |   c = neutral
+
+classDetailsString
+Avg Accuracy: 6130.105524518932%
+
+predictCount
+Start Time : Sat Dec 31 15:47:03 GMT 2016
+
+Duration: 6.0 mins
+
+End Time : Sat Dec 31 15:53:49 GMT 2016
+
+Results produced from with Lexicon Ensemble classifier.
+600 Tweets cross valid processed with Lexicon Classifier tweet_set_two_processed3_expanded 
+
+correct
+incorrect
+Avg Recall: 63.08472998137803%
+
+Avg Precision: 97.94376833212614%
+
+Avg F-Measure: 76.02765089908085%
+
+summaryString
+=== Confusion Matrix ===
+
+   a   b   c   <-- classified as
+   0   0   0 |   a = negative
+   0   0   0 |   b = positive
+  30   9 141 |   c = neutral
+
+classDetailsString
+Avg Accuracy: 6308.472998137804%
+
+predictCount
+Start Time : Sat Dec 31 15:53:52 GMT 2016
+
+Duration: 6.0 mins
+
+End Time : Sat Dec 31 16:00:13 GMT 2016
+
+Results produced from with Lexicon ensemble classifier.AVERAGE_RULE
+Preprocessed Baseline: 600 No.tweets: Avg F-Measure: 71.1190769419423%
+
+Preprocessed with processed2 airportcode expanded Baseline, NoTweet : 600 F-measure: Avg F-Measure: 70.26047965212807%
+
+Preprocessed with processed2 airportCodeSlang expanded Baseline, NoTweet : 600 F-measure: Avg F-Measure: 67.23665004853177%
+
+Preprocessed with processed2 airportCodeSlangHashtags expanded Baseline, NoTweet : 600 F-measure: Avg F-Measure: 68.6905806778467%
+
+Preprocessed with processed2 airportCodeSlangHashtagsEmoji expanded Baseline, NoTweet : 600 F-measure: Avg F-Measure: 74.55970083863309%
+
+Preprocessed with processed3 removed features Baseline, NoTweet : 600 F-measure: Avg F-Measure: 76.02765089908085%
+
+46.3687+43.0168+50.838+53.6313+53.0726+45.8101+58.6592+76.5363+79.8883+71.1111

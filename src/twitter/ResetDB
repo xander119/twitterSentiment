@@ -1,0 +1,77 @@
+IF OBJECT_ID('twitterResearch.tweet_set_two', 'U') IS NOT NULL DROP TABLE twitterResearch.tweet_set_two;
+IF OBJECT_ID('twitterResearch.tweet_set_two_processed1', 'U') IS NOT NULL
+  DROP TABLE twitterResearch.tweet_set_two_processed1;
+IF OBJECT_ID('twitterResearch.tweet_set_two_processed2', 'U') IS NOT NULL
+  DROP TABLE twitterResearch.tweet_set_two_processed2;
+IF OBJECT_ID('twitterResearch.tweet_set_two_processed3', 'U') IS NOT NULL
+  DROP TABLE twitterResearch.tweet_set_two_processed3;
+
+
+CREATE TABLE twitterResearch.tweet_set_two(
+  tweet_id	LONG,
+  labelled_sentiment	VARCHAR(255),
+  airline_sentiment_confidence	LONG,
+  negativereason	VARCHAR(225) CHARACTER SET utf8mb4,
+  negativereason_confidence	LONG,
+  airline	VARCHAR(225),
+  airline_sentiment_gold	VARCHAR(220),
+  name	VARCHAR(225) CHARACTER SET utf8mb4,
+  negativereason_gold	LONG,
+  retweet_count	VARCHAR(225) CHARACTER SET utf8mb4,
+  text	LONGTEXT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci,
+  tweet_coord	VARCHAR(225),
+  tweet_created DATETIME,
+  tweet_location VARCHAR(225),
+  user_timezone VARCHAR(225)
+);
+CREATE TABLE twitterResearch.tweet_set_two_processed1(
+  tweet_id	LONG,
+  labelled_sentiment	VARCHAR(255),
+  airline_sentiment_confidence	LONG,
+  negativereason	VARCHAR(225) CHARACTER SET utf8mb4,
+  negativereason_confidence	LONG,
+  airline	VARCHAR(225),
+  airline_sentiment_gold	VARCHAR(220),
+  name	VARCHAR(225) CHARACTER SET utf8mb4,
+  negativereason_gold	LONG,
+  retweet_count	VARCHAR(225) CHARACTER SET utf8mb4,
+  text	LONGTEXT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci,
+  tweet_coord	VARCHAR(225),
+  tweet_created DATETIME,
+  tweet_location VARCHAR(225),
+  user_timezone VARCHAR(225)
+);
+CREATE TABLE twitterResearch.tweet_set_two_processed2(
+  tweet_id	LONG,
+  labelled_sentiment	VARCHAR(255),
+  airline_sentiment_confidence	LONG,
+  negativereason	VARCHAR(225) CHARACTER SET utf8mb4,
+  negativereason_confidence	LONG,
+  airline	VARCHAR(225),
+  airline_sentiment_gold	VARCHAR(220),
+  name	VARCHAR(225) CHARACTER SET utf8mb4,
+  negativereason_gold	LONG,
+  retweet_count	VARCHAR(225) CHARACTER SET utf8mb4,
+  text	LONGTEXT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci,
+  tweet_coord	VARCHAR(225),
+  tweet_created DATETIME,
+  tweet_location VARCHAR(225),
+  user_timezone VARCHAR(225)
+);
+CREATE TABLE twitterResearch.tweet_set_two_processed3(
+  tweet_id	LONG,
+  labelled_sentiment	VARCHAR(255),
+  airline_sentiment_confidence	LONG,
+  negativereason	VARCHAR(225) CHARACTER SET utf8mb4,
+  negativereason_confidence	LONG,
+  airline	VARCHAR(225),
+  airline_sentiment_gold	VARCHAR(220),
+  name	VARCHAR(225) CHARACTER SET utf8mb4,
+  negativereason_gold	LONG,
+  retweet_count	VARCHAR(225) CHARACTER SET utf8mb4,
+  text	LONGTEXT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci,
+  tweet_coord	VARCHAR(225),
+  tweet_created DATETIME,
+  tweet_location VARCHAR(225),
+  user_timezone VARCHAR(225)
+);

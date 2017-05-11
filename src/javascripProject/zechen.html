@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Personal Profile</title>
+    <link rel="stylesheet" href="css/bootstrap.css" type="text/css"/>
+    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css"/>
+    <link rel="stylesheet" href="css/style2.css" type="text/css"/>
+    <!--<link rel="stylesheet" href="style2.css" type="text/css"/>-->
+
+</head>
+
+<body style="background-image: url(piano.gif);background-repeat: no-repeat;background-size: cover;">
+
+<nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#homeSection" title="Home"><img id="homeImage" src="image/logo.jpg" alt="logo"
+                                                                      width="150" height="100"/></a>
+        <ul class="nav navbar-nav" style="padding-left: 10%;">
+            <li><a href="#shopWomen" title="Women"><img id="shopWomenImage" src="image/womenshopping.gif"
+                                                        alt="shopWomen" width="150" height="100"/></a></li>
+            <li><a href="#shopMan" title="Men"><img id="shopManImage" src="image/menshopping.gif" alt="shopMan"
+                                                    width="150" height="100"/></a></li>
+            <li><a href="#contact" title="Contact"><img id="contactImage" src="image/contact.gif" alt="contact"
+                                                        width="150" height="100"/></a></li>
+        </ul>
+    </div>
+</nav>
+<div class="container-fluid" style="padding-top: 130px;">
+    <div id="homeSection" class="sect row">
+        <div>
+
+        </div>
+    </div>
+
+    <div id="shopWomen" class="sect row">
+
+    </div>
+
+    <div id="shopMan" class="sect row">
+        <div class="row">
+
+            <div class="col-lg-2 col-xs-offset-2">
+                <div class="">
+                    <div class="row">
+                        <a onclick="manSaleFunctions.showBuy(this)" data-toggle="modal" data-target="#myModal" href="#">
+                            <div class="hovereffect">
+                                <img class="productImages img-responsive" src="image/man1.jpg" alt="man">
+                                <div class="overlay">
+                                    <h2>New Season</h2>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="row">
+                        <div class="">
+                            <label>Price: 989</label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2">
+                <div class="row">
+                    <a onclick="manSaleFunctions.showBuy(this)" data-toggle="modal" data-target="#myModal" href="#">
+
+                        <div class="hovereffect">
+                            <img class="productImages img-responsive" src="image/man2.jpg" alt="man">
+                            <div class="overlay">
+                                <h2>New Season</h2>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="row">
+                    <label>Price: 869</label>
+                </div>
+            </div>
+            <div class="col-lg-2">
+                <div class="row">
+                    <a onclick="manSaleFunctions.showBuy(this)" data-toggle="modal" data-target="#myModal" href="#">
+
+                        <div class="hovereffect">
+                            <img class="productImages img-responsive" src="image/man3.jpg" alt="man">
+                            <div class="overlay">
+                                <h2>New Season</h2>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="row">
+                    <label>Price: 1155</label>
+                </div>
+            </div>
+            <div class="col-lg-2">
+                <div class="row">
+                    <a onclick="manSaleFunctions.showBuy(this)" data-toggle="modal" data-target="#myModal" href="#">
+
+                        <div class="hovereffect">
+                            <img class="productImages img-responsive" src="image/man4.jpg" alt="man">
+                            <div class="overlay">
+                                <h2>New Season</h2>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="row">
+                    <label>Price: 568</label>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-2 col-xs-offset-2">
+                <div class="row">
+                    <a onclick="manSaleFunctions.showBuy(this)" data-toggle="modal" data-target="#myModal" href="#">
+
+                        <div class="hovereffect">
+                            <img class="productImages img-responsive" src="image/man5.jpg" alt="man">
+                            <div class="overlay">
+                                <h2>New Season</h2>
+                            </div>
+                        </div>
+                    </a>
+
+                </div>
+                <div class="row">
+                    <label>Price: 999</label>
+                </div>
+            </div>
+            <div class="col-lg-2">
+                <div class="row">
+                    <a onclick="manSaleFunctions.showBuy(this)" data-toggle="modal" data-target="#myModal" href="#">
+                        <div class="hovereffect">
+                            <img class="productImages img-responsive" src="image/man6.jpg" alt="man">
+                            <div class="overlay">
+                                <h2>New Season</h2>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="row">
+                    <label>Price: 1354</label>
+                </div>
+            </div>
+            <div class="col-lg-2">
+                <div class="row"><a onclick="manSaleFunctions.showBuy(this)" data-toggle="modal" data-target="#myModal"
+                                    href="#">
+                    <div class="hovereffect">
+                        <img class="productImages img-responsive" src="image/man7.jpg" alt="man">
+                        <div class="overlay">
+                            <h2>New Season</h2>
+                        </div>
+                    </div>
+                </a>
+                </div>
+                <div class="row">
+                    <label>Price: 1200</label>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="contact" class="sect row">
+        <div id="shopLocations" class="col-lg-12" style="height: 500px;">
+        </div>
+    </div>
+
+    <div id="myModal" class="modal fade" role="dialog">
+        <div class="modal-dialog">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">Buy</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-lg-6" id="modal-body">
+
+                        </div>
+                        <div class="col-lg-6 col-lg-offset-0">
+                            <div class="row"><label for="quantity">Quantity: </label>
+                                <input type="number" max="9999" id="quantity" name="quantity"></div>
+                            <div class="row" style="padding-top: 15px;">
+                                <label>Description: </label>
+                                <p>
+                                    Saint Laurent production.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-success" data-dismiss="modal"
+                            onclick="manSaleFunctions.save(quantity)">OK
+                    </button>
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+<script src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
+
+<script>
+
+    GoogleMap = function () {
+
+        this.createMap = function () {
+            var mapdiv = document.createElement("div");
+            var locationDiv = document.createElement("div");
+            var shopLocationDiv = document.getElementById("shopLocations");
+            mapdiv.id = "googleMap";
+            mapdiv.style.width = "85%";
+            mapdiv.style.height = "100%";
+            mapdiv.style.top = "3%";
+            mapdiv.style.left = "5%";
+            mapdiv.style.borderRadius = "25px";
+            mapdiv.style.borderWidth = "5px";
+            mapdiv.style.borderColor = "black";
+            mapdiv.style.borderStyle = "solid";
+            shopLocationDiv.appendChild(mapdiv);
+
+            var myMap;
+            var map = document.getElementById("googleMap");
+            var position = {lat: 53.338493, lng: -6.266509};
+            var mapOptions =
+                {
+                    center: position,
+                    mapTypeId: google.maps.MapTypeId.ROADMAP,
+                    zoom: 16
+                };
+
+            myMap = new google.maps.Map(map, mapOptions);
+            var marker = new google.maps.Marker({
+                position: position,
+                map: myMap
+            });
+            locationDiv.id = "locationDetails";
+            locationDiv.innerHTML = "Saint Laurent";
+            locationDiv.style.paddingTop = "10px";
+            locationDiv.style.paddingLeft = "20px";
+            shopLocationDiv.appendChild(locationDiv);
+
+        };
+
+        this.mapExist = function () {
+            return !!document.getElementById("googleMap");
+        };
+
+    };
+
+    ManSaleFunctions = function () {
+        this.showBuy = function (elem) {
+            var modelB = document.getElementById("modal-body");
+            var image = document.getElementById("itemImage");
+            if (!image) {
+                image = document.createElement("img");
+                image.src = elem.getElementsByTagName("img")[0].src;
+                image.id = "itemImage";
+                image.classList.add("productImages");
+                image.classList.add("row");
+                image.classList.add("col-lg-offset-0");
+                modelB.appendChild(image);
+            } else {
+                image.src = elem.getElementsByTagName("img")[0].src;
+            }
+        }
+        this.save = function (q) {
+
+            window.alert("You have bought " + q.value + " number of itmes.");
+
+        }
+    };
+    InitElement = function () {
+        var contact = document.getElementById('contactImage');
+        var women = document.getElementById('shopWomenImage');
+        var shopWomenDiv = document.getElementById('shopWomen');
+        contact.addEventListener("click", function () {
+            googleMap = new GoogleMap();
+            if (!googleMap.mapExist()) {
+                googleMap.createMap();
+            }
+        });
+        women.addEventListener("click", function () {
+
+            if (!document.getElementById("productWrapper")) {
+                var productImageLabelDivWrapper = document.createElement("div");
+                productImageLabelDivWrapper.className = "row";
+                productImageLabelDivWrapper.style.paddingLeft = "40px";
+                productImageLabelDivWrapper.id = "productWrapper";
+                for (var i = 1; i < 12; i++) {
+                    var product = {
+                        price: Math.floor(Math.random() * 1000) + 100,
+                        image: "image/goods (" + i + ").jpg",
+                        name: "image-" + i
+                    };
+                    var productImageLabelDiv = document.createElement("div");
+                    var productImageLabel = document.createElement("label");
+                    var productImage = document.createElement("img");
+                    var productImageDiv = document.createElement("div");
+                    var div1 = document.createElement("div");
+                    div1.className = "row";
+                    var div2 = document.createElement("div");
+                    div2.className = "row";
+                    productImageDiv.className = "row";
+                    productImage.src = product.image;
+                    productImage.name = product.name;
+                    productImage.classList.add("row");
+                    productImage.classList.add("productImages");
+                    productImage.addEventListener("mouseover", function () {
+                    });
+                    productImageLabel.for = product.name;
+                    productImageLabel.className = "row";
+                    productImageLabel.innerHTML = "Price:" + product.price;
+                    div1.appendChild(productImage);
+                    div2.appendChild(productImageLabel);
+                    productImageLabelDiv.appendChild(div1);
+                    productImageLabelDiv.appendChild(div2);
+                    productImageLabelDiv.className = "col-lg-2";
+                    productImageLabelDivWrapper.appendChild(productImageLabelDiv);
+                }
+                shopWomenDiv.appendChild(productImageLabelDivWrapper);
+            }
+        });
+
+    };
+
+
+    function loadScript() {
+        initElement = new InitElement();
+        manSaleFunctions = new ManSaleFunctions();
+    }
+
+    window.onload = loadScript;
+
+</script>
+<script src="js/jquery.min.js"></script>
+<script src="js/bootstrap.js"></script>
+</body>
+</html>

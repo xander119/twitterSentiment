@@ -1,0 +1,157 @@
+Results produced from with Original Ensemble classifier.
+1000 Random Tweets 66% Split processed with Ensemble Classifiers tweet_set_two_processed1_expanded 
+
+Pct-Correct: 61.1764705882353%
+
+Pct-Incorrect: 38.8235294117647%
+
+Recall: 61.1764705882353%
+
+Precision: 67.02977487291211%
+
+F-Measure: 49.81227418931175%
+
+
+Correctly Classified Instances         208               61.1765 %
+Incorrectly Classified Instances       132               38.8235 %
+Kappa statistic                          0.119 
+Mean absolute error                      0.3229
+Root mean squared error                  0.4026
+Relative absolute error                 84.3857 %
+Root relative squared error             91.6409 %
+Total Number of Instances              340     
+
+
+=== Confusion Matrix ===
+
+   a   b   c   <-- classified as
+   6  67   1 |   a = neutral
+   0 196   0 |   b = negative
+   3  61   6 |   c = positive
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.081    0.011    0.667      0.081    0.145      0.179    0.714     0.410     neutral
+                 1.000    0.889    0.605      1.000    0.754      0.259    0.803     0.847     negative
+                 0.086    0.004    0.857      0.086    0.156      0.234    0.755     0.468     positive
+Weighted Avg.    0.612    0.516    0.670      0.612    0.498      0.237    0.774     0.674     
+
+
+Accuracy of Vote: 61.18%
+---------------------------------
+
+Start Time : Fri Dec 02 14:24:04 GMT 2016
+
+Duration: 0.0 mins
+
+End Time : Fri Dec 02 14:24:23 GMT 2016
+
+Results produced from with Original Ensemble classifier.
+1000 Random Tweets 66% Split processed with Ensemble Classifiers tweet_set_two_processed2_expanded 
+
+Pct-Correct: 61.76470588235294%
+
+Pct-Incorrect: 38.23529411764706%
+
+Recall: 61.76470588235294%
+
+Precision: 62.588829471182414%
+
+F-Measure: 51.7676920889226%
+
+
+Correctly Classified Instances         210               61.7647 %
+Incorrectly Classified Instances       130               38.2353 %
+Kappa statistic                          0.1511
+Mean absolute error                      0.3216
+Root mean squared error                  0.4014
+Relative absolute error                 84.0579 %
+Root relative squared error             91.3665 %
+Total Number of Instances              340     
+
+
+=== Confusion Matrix ===
+
+   a   b   c   <-- classified as
+   7  63   4 |   a = neutral
+   1 194   1 |   b = negative
+   3  58   9 |   c = positive
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.095    0.015    0.636      0.095    0.165      0.186    0.716     0.400     neutral
+                 0.990    0.840    0.616      0.990    0.759      0.283    0.799     0.847     negative
+                 0.129    0.019    0.643      0.129    0.214      0.224    0.770     0.520     positive
+Weighted Avg.    0.618    0.491    0.626      0.618    0.518      0.250    0.775     0.682     
+
+
+Accuracy of Vote: 61.76%
+---------------------------------
+
+Start Time : Fri Dec 02 14:24:26 GMT 2016
+
+Duration: 0.0 mins
+
+End Time : Fri Dec 02 14:24:40 GMT 2016
+
+Results produced from with Original Ensemble classifier.
+1000 Random Tweets 66% Split processed with Ensemble Classifiers tweet_set_two_processed3_expanded 
+
+Pct-Correct: 62.35294117647059%
+
+Pct-Incorrect: 37.64705882352941%
+
+Recall: 62.35294117647059%
+
+Precision: 63.083610802811684%
+
+F-Measure: 52.17537951875507%
+
+
+Correctly Classified Instances         212               62.3529 %
+Incorrectly Classified Instances       128               37.6471 %
+Kappa statistic                          0.1326
+Mean absolute error                      0.3177
+Root mean squared error                  0.3978
+Relative absolute error                 83.9081 %
+Root relative squared error             91.4905 %
+Total Number of Instances              340     
+
+
+=== Confusion Matrix ===
+
+   a   b   c   <-- classified as
+   6  65   3 |   a = neutral
+   1 198   2 |   b = negative
+   2  55   8 |   c = positive
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.081    0.011    0.667      0.081    0.145      0.179    0.717     0.440     neutral
+                 0.985    0.863    0.623      0.985    0.763      0.243    0.788     0.849     negative
+                 0.123    0.018    0.615      0.123    0.205      0.215    0.767     0.489     positive
+Weighted Avg.    0.624    0.516    0.631      0.624    0.522      0.224    0.769     0.691     
+
+
+Accuracy of Vote: 62.35%
+---------------------------------
+
+Start Time : Fri Dec 02 14:24:43 GMT 2016
+
+Duration: 0.0 mins
+
+End Time : Fri Dec 02 14:24:56 GMT 2016
+
+Results produced from with ensemble classifier.AVERAGE_RULE
+Preprocessed: 1000 No.tweets: F-Measure: 49.81227418931175%
+
+Preprocessed with replaced Emojis  1000 No.tweets: F-Measure: 51.7676920889226%
+
+Preprocessed with removed Emojis 1000 No.tweets: F-Measure: 52.17537951875507%
+
